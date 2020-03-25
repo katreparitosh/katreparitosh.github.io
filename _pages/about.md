@@ -8,9 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-My name is Shreyas Skandan and I'm currently a PhD Student in the CIS Programme at the University of Pennsylvania. I'm part of the G.R.A.S.P Laboratory, at the [Kumar Robotics Lab](https://www.kumarrobotics.org) under [Dr. Camillo J. Taylor](http://www.cis.upenn.edu/~cjtaylor/) and I previously worked at the [Rehabilitation Robotics Lab](http://www.med.upenn.edu/rehabilitation-robotics-lab/
-) under Dr. Michelle Johnson. My research focus is Computer Vision and Deep Learning applied to mobile robots, with a special interest in stereo depth estimation.
-
-I previously worked as an Application Developer at the Kumar Robotics Lab, after I graduated from the M.S.E in Robotics programme at Penn. 
-
-I worked on my Master's Thesis under Dr. Camillo J. Taylor, which was "A survey of High Performance Dense Stereo Algorithms for Real Time Depth Estimation" -- a video of the presentation can be found [here](https://www.youtube.com/watch?v=QvHdOKvwGQw&feature=youtu.be&t=1h11m34s).
+My name is Paritosh Katre and I'm currently a Final Year CSE Undergrad student at Vishwakarma Institute of Information Technology (VIIT). Currently, I'm in my year long research internship at Applied Artificial Intelligence (AAI) Group at Center for Development of Advanced Computing (C-DAC), Pune, India.   
