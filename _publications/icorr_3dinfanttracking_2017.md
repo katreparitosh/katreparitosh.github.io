@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/icorr_3dinfanttracking_2017
 excerpt: 'This paper is my first paper'
 date: 2019-09-29
-venue: 'National Conference on Recent Advancments in Computing (NCRAC 2019)'
+venue: 'International Journal of Recent Technology and Engineering (IJRTE) - Scopus Internatioal Journal'
 paperurl: 'https://ieeexplore.ieee.org/document/8009353/'
 citation: 'PD Katre (2019). &quot;NLP Based Text Analytics and Visualization of Political Speeches; <i>National Conference on Recent Advancments in Computing (NCRAC 2019)</i>'
 ---
