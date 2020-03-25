@@ -1,15 +1,13 @@
 ---
-title: "Stereo 3D Tracking of Infants in Natural Play Conditions"
+title: "NLP Based Text Analytics and Visualization of Political Speeches"
 collection: publications
 permalink: /publication/icorr_3dinfanttracking_2017
-excerpt: 'This paper describes the design and implementation of a multiple view stereoscopic 3D vision system and a supporting infant tracker pipeline..'
-date: 2017-07-17
-venue: '2017 International Conference on Rehabilitation Robotics (ICORR)'
+excerpt: 'This paper is my first paper'
+date: 2019-09-29
+venue: 'National Conference on Recent Advancments in Computing (NCRAC 2019)'
 paperurl: 'https://ieeexplore.ieee.org/document/8009353/'
-citation: 'Shivakumar, S.S. (2017). &quot;Stereo 3D Tracking of Infants in Natural Play Conditions.&quot; <i>2017 International Conference on Rehabilitation Robotics</i>. 1(1).'
+citation: 'PD Katre (2019). &quot;NLP Based Text Analytics and Visualization of Political Speeches; <i>National Conference on Recent Advancments in Computing (NCRAC 2019)</i>'
 ---
-This paper describes the design and implementation of a multiple view stereoscopic 3D vision system and a supporting infant tracker pipeline to track limb movement in natural play environments and dentify potential metrics to quantify movement behavior. So far, human pose estimation and tracking with 3D cameras has been focused primarily on adults and cannot be directly extended to infants because of differences in visual features such as shapes, sizes and appearance. With rehabilitation in mind, we propose a portable, compact, markerless, low cost and high resolution 3D vision system and a tracking algorithm that exploits infant appearance attributes and depth information. This approach achieved a mean 3D tracking error of 8.21cm and a standard deviation of 8.75cm. We also identify two potential metrics for movement behavior analysis - approximate entropy and interaction events.
+This paper presents a case study of implementing computational methods like Natural Language Processing (NLP) to perform Text Analytics and Visualization on political speech transcripts. The speech transcripts are published on websites, social media, and documents in large volumes and multiple languages. These transcripts are available in unstructured textual format and thus they are a part of big-data requiring analytics to derive insights from it. In this experiment, a significantly large volume of speech transcripts are analyzed and graphical visualizations are generated such as Lexical Dispersion Plot, Time Series Plot, WordCloud, Bar-Graphs using various Python libraries. The study has been useful in identifying issues highlighted across a large number of speech transcripts. So far, the linguists have tried to perform analysis using manual linguistic approaches which are extremely time-consuming and complex to understand the Political Discourse. Our experiment of applying NLP based text analytics proves to be a very efficient technique for Political Discourse Analysis (PDA).
 
-[Download paper here](https://ieeexplore.ieee.org/document/8009353/)
-
-Recommended citation: Shivakumar, S.S., Loeb, H., Bogen, D.K., Shofer, F., Bryant, P., Prosser, L. and Johnson, M.J., 2017, July. Stereo 3D tracking of infants in natural play conditions. In Rehabilitation Robotics (ICORR), 2017 International Conference on (pp. 841-846). IEEE.
+[Download paper here](https://www.semanticscholar.org/paper/International-Journal-of-Recent-Technology-and-Katre/27c87be7b0fbef48a256fc2ad5df890625498f7c)
