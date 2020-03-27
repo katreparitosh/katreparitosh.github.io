@@ -2,8 +2,8 @@
 title: "NLP Based Text Analytics and Visualization of Political Speeches"
 collection: publications
 permalink: /publication/icorr_3dinfanttracking_2017
-excerpt: 'This paper is my first paper'
-date: 2019-09-29
+excerpt: 'Received the <strong> BEST PAPER AWARD </strong> at NCRAC-2019, Coimbatore'
+date: 2019-09-13
 venue: 'International Journal of Recent Technology and Engineering (IJRTE) - Scopus Internatioal Journal'
 citation: 'PD Katre, &quot;NLP Based Text Analytics and Visualization of Political Speeches&quot; <i>International Journal of Recent Technology and Engineering (IJRTE)</i>ISSN: 2277-3878, Volume-8 Issue-3, September 2019, pp. 8574-8579'
 ---
