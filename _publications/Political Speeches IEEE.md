@@ -12,7 +12,7 @@ We present an experimental study of implementing Latent Dirichlet Allocation (LD
 
 Received the <strong>Lead Paper Award for the Session 6 (NLP) </strong>.
 
-[Download paper here](https://ieeexplore.ieee.org/abstract/document/8971605)
+[View paper here](https://ieeexplore.ieee.org/abstract/document/8971605)
 
 <img src = '/images/Talk.jpg'>
 <img src = '/images/Certificate.jpg'>
