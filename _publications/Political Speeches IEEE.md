@@ -12,3 +12,4 @@ We present an experimental study of implementing Latent Dirichlet Allocation (LD
 [Download paper here](https://ieeexplore.ieee.org/abstract/document/8971605)
 
 <img src = '/images/Talk.jpg'>
+<img src = '/images/Certificate.jpg'>
