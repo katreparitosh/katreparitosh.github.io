@@ -2,7 +2,7 @@
 title: "NLP Based Text Analytics and Visualization of Political Speeches"
 collection: publications
 permalink: /publication/ijrte_2019/
-excerpt: 
+excerpt: ''
 date: 2019-09-13
 venue: 'Elsevier Scopus - International Journal of Recent Technology and Engineering (IJRTE)'
 ---
