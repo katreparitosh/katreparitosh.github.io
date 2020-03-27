@@ -1,7 +1,7 @@
 ---
 title: "NLP Based Text Analytics and Visualization of Political Speeches"
 collection: publications
-permalink: /publication/ijrte_2019
+permalink: /publication/ijrte_2019/
 excerpt: 'Received the <strong> BEST PAPER AWARD </strong> at NCRAC-2019, Coimbatore'
 date: 2019-09-13
 venue: 'Elsevier Scopus - International Journal of Recent Technology and Engineering (IJRTE)'
