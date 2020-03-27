@@ -13,3 +13,5 @@ This paper presents a case study of implementing computational methods like Natu
 Received the <strong> BEST PAPER AWARD </strong> at NCRAC-2019, Coimbatore.
 
 [Download paper here](https://www.semanticscholar.org/paper/International-Journal-of-Recent-Technology-and-Katre/27c87be7b0fbef48a256fc2ad5df890625498f7c)
+
+<img src = '/images/Best Paper.jpg'>
