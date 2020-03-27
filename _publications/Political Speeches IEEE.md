@@ -1,8 +1,8 @@
 ---
 title: "Text Mining and Comparative Visual Analytics on Large Collection of Speeches to Trace Socio-Political Issues"
 collection: publications
-permalink: /publication/icra_applesoranges_2017
-excerpt: 'Received the Lead Paper Award for the Session 6 (NLP)'
+permalink: /publication/ieee_iacc_2019/
+excerpt: 'Received the <strong>Lead Paper Award</strong> for the Session 6 (NLP)'
 date: 2019-12-14
 venue: '2019 IEEE 9th International Advance Computing Conference (IACC 2019)'
 ---
