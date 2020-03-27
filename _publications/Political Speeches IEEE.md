@@ -3,7 +3,7 @@ title: "Text Mining and Comparative Visual Analytics on Large Collection of Spee
 collection: publications
 permalink: /publication/icra_applesoranges_2017
 excerpt: 'My IEEE paper'
-date: 2019
+date: 2019-12-14
 venue: '2019 IEEE 9th International Advance Computing Conference (IACC 2019)'
 ---
 <h3>Abstract</h3>
