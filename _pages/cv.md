@@ -16,8 +16,7 @@ Education
 
 Work experience
 ======
-* <strong>Research Intern</strong>
-* Center for Development of Advanced Computing (C-DAC) (April 2019 - May 2020) 
+* <strong>Research Intern</strong> at Center for Development of Advanced Computing (C-DAC) (April 2019 - May 2020) 
   * Project Topic: Prediction and Analytics on Open Unstructured Corpora
   * Pursuing a year long research internship at C-DAC as part of the sponsored final year thesis project.
   * Develope a novel prediction approach using NLP to predict future terrorist attack based on unstructured English texts.
