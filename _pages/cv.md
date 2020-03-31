@@ -16,11 +16,13 @@ Education
 
 Work experience
 ======
-* (April 2019 - May 2020) Center for Development of Advanced Computing (C-DAC) : Research Intern
-  * Topic: Prediction and Analytics on Open Unstructured Corpora
+* <strong>Research Intern</strong>
+* Center for Development of Advanced Computing (C-DAC) (April 2019 - May 2020) 
+  * Project Topic: Prediction and Analytics on Open Unstructured Corpora
   * Pursuing a year long research internship at C-DAC as part of the sponsored final year thesis project.
   * Develope a novel prediction approach using NLP to predict future terrorist attack based on unstructured English texts.
-  * Supervisor: Dr. Krishnanjan Bhattacharjee, Principal Technical Office, Applied AI Group, C-DAC.
+  * Project Supervisor: Dr. Krishnanjan Bhattacharjee, Principal Technical Officer, Applied AI Group, C-DAC.
+  * Internal Project Guide: Devika Verma, Assistant Professor, VIIT.
 
 Technical Skills
 ======
@@ -33,5 +35,5 @@ Technical Skills
 Extra-Cirricular Activites
 ======
 * <strong>Head of Music</strong> in college cultural groups and festivals.
-* <strong>Music Composer</strong> at <a href="https://sites.google.com/view/geetdnyaneshwari">Geet Dnyaneshwari</a>.
+* <strong>Music Composer</strong> at <a href="https://sites.google.com/view/geetdnyaneshwari">Geet Dnyaneshwari.</a>
  
