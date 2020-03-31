@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Paritosh Katre and I'm currently a final year CSE Undergrad student at Vishwakarma Institute of Information Technology (VIIT). Currently, I'm doing my year long research internship at Applied Artificial Intelligence (AAI) Group at the Center for Development of Advanced Computing (C-DAC), Pune, India. My research interests are Natural Language Processing (NLP), Big Data and AI-Analytics. 
+My name is Paritosh Katre and I'm currently a final year CSE Undergrad student at Vishwakarma Institute of Information Technology (VIIT). Currently, I'm doing my year long research internship at Applied Artificial Intelligence (AAI) Group at the Center for Development of Advanced Computing (C-DAC), Pune, India. 
+
+My research interests are Natural Language Processing (NLP), Big Data and AI-Analytics. In future, I want to research on Multi-lingual NLP, Sentient AI and Computational Musicology.  
 
 I enjoy working on projects which have my independent thought and concept behind it. It is challenging, but is an essential growth skill.
 
