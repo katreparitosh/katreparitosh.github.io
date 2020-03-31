@@ -15,4 +15,5 @@ My research interests are <a href = "https://en.wikipedia.org/wiki/Natural_langu
 I enjoy working on projects which have my independent thought and concept behind it. It is challenging, but is an essential growth skill.
 
 Besides, I am a passionate musician. For the last 5 yars, I have been composing and producing music that blends Indian Classical Ragas and Western Chord soundscape. <a href="https://sites.google.com/view/geetdnyaneshwari"> Geet Dnyaneshwari </a> *Rendering of divine melody quietly present in Dnyaneshwari*, a novel experimental musical project, where I have composed over 30 songs together with my father, each distinct in its beauty and aesthetic meaning.  
-
+<br>
+<img src = "/images/Github Club.jog"
