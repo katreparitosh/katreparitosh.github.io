@@ -33,5 +33,5 @@ Technical Skills
 Extra-Cirricular Activites
 ======
 * <strong>Head of Music</strong> in college cultural groups and festivals.
-* <storng>Music Composer</strong> at <a href="https://sites.google.com/view/geetdnyaneshwari">Geet Dnyaneshwari</a>.
+* <strong>Music Composer</strong> at <a href="https://sites.google.com/view/geetdnyaneshwari">Geet Dnyaneshwari</a>.
  
