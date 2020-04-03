@@ -31,7 +31,7 @@ Technical Skills
 * <strong>IDE and Platforms:</strong>  Jupyter Notebook, PyCharm, Google Colab, Tableau, Android Studio, IntelliJ IDEA, NetBeans 
 * <strong>Version Control:</strong> Git and GitHub 
 
-Extra-Cirricular Activites
+Extra-Curricular Activites
 ======
 * <strong>Head of Music</strong> in college cultural groups and festivals.
 * <strong>Music Composer</strong> at <a href="https://sites.google.com/view/geetdnyaneshwari">Geet Dnyaneshwari.</a>
