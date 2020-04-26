@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-05-15
 venue: 'Springer - 4th International Conference on Information and Communication Technology for Intelligent Systems (ICTIS 2020)'
 ---
-Scheduled on 15th-16th May 2020
+Conference scheduled on 15th-16th May 2020
 
 <h3>Abstract</h3>
 In the age of Big Data Analytics, text mining on large sets of digital textual data does not suffice all the analytic purposes. 
