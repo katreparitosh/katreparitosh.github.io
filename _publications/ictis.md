@@ -1,7 +1,7 @@
 ---
 title: "Survey and Gap Analysis on Event Prediction of English Unstructured Texts"
 collection: publications
-permalink: /publication/ictis_springer_2020/
+permalink: /publication/springer_ictis_2020/
 excerpt: ''
 date: 2020-05-15
 venue: 'Springer - 4th International Conference on Information and Communication Technology for Intelligent Systems (ICTIS 2020)'
