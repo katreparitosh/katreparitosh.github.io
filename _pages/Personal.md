@@ -17,3 +17,5 @@ I have been the Head of Music Team of my college theater group and I have perfor
 * <b> Birding and Photography </b>
 For the last 10 years, I have formed a deep in interesting identifying birds and photographing them. I occasionaly visit the nearby hills
 from my city for birdwatching and photography purposes. 
+<br>
+<img src = "/images/Github Club.jpg">
