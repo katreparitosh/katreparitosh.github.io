@@ -17,4 +17,4 @@ I enjoy working on projects which have my independent thought and concept behind
 See the <a href = "https://katreparitosh.github.io/personal/"> Personal </a> tab to read about my hobbies and other activities.
 
 <br><br>
-<img src = "/images/Github Club.jpg">
+<img src = "/images/IEEE Talk.jpg">
