@@ -14,7 +14,7 @@ My research interests are <a href = "https://en.wikipedia.org/wiki/Natural_langu
 
 I enjoy working on projects which have my independent thought and concept behind it. It is challenging, but is an essential growth skill.
 
-See the <a href = "https://katreparitosh.github.io/personal/"> Personal </a> tab to read about my hobbies and other activities.
+Visit the <a href = "https://katreparitosh.github.io/personal/"> Personal </a> tab above to read about my hobbies and other activities.
 
 <br><br>
 <img src = "/images/IEEE Talk.jpg">
