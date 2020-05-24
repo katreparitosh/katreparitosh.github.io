@@ -17,4 +17,4 @@ Prediction on unstructured texts and interlinking of the information in various 
 Scheduled for publication in **Springer : Smart Innovation, Systems and Technologies (SIST) series**.
 
 <img src = '/images/ICTIS Springer.jpg'>
-<img src = '/images/Certificate.jpg'>
+<img src = '/images/TYLetter.jpg'>
