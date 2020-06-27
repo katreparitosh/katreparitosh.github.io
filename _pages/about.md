@@ -16,7 +16,7 @@ I previously interned at the Applied Artificial Intelligence (AAI) Group of <a h
 
 Generally, I enjoy working on projects which have my independent thought and concept behind it. It is challenging, but I believe it's an essential growth skill.
 
-Apart from research, I am passionate about many other activites. Clich here--> <a href = "https://katreparitosh.github.io/personal/"> Personal </a> to read about my other pursuits. 
+Apart from research, I am passionate about many other activites. Refer the <a href = "https://katreparitosh.github.io/personal/"> Personal Tab </a> to read about my other pursuits. 
 
-<br><br>
+<br>
 <img src = "/images/IEEE Talk.jpg">
