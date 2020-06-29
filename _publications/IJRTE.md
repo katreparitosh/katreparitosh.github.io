@@ -5,7 +5,6 @@ permalink: /publication/ijrte_2019/
 excerpt: ''
 date: 2019-09-13
 venue: 'Elsevier Scopus - International Journal of Recent Technology and Engineering (IJRTE)'
-citation: '<b><i>Paritosh D. Katre</i></b>'
 ---
 
 Received the <strong> BEST PAPER AWARD </strong> at NCRAC-2019, Coimbatore
