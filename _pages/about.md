@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: justify"> your-text-here 
+<div style="text-align: justify">
 I'm pursing Bachelor of Engineering (BE) in Computer Engineering at <a href="http://www.viit.ac.in/">Vishwakarma Institute of Information Technology (VIIT)</a>. My research interests are <a href = "https://en.wikipedia.org/wiki/Natural_language_processing"> Natural Language Processing (NLP) </a>, <a href = "https://en.wikipedia.org/wiki/Big_data">Big Data</a> and <a href = "https://en.wikipedia.org/wiki/Artificial_intelligence"> Artificial Intelligence</a>. In future, I want to research in <a href ="https://en.wikipedia.org/wiki/Artificial_consciousness">Sentient AI (Artificial Consciousness)</a> and <a href = "https://en.wikipedia.org/wiki/Computational_musicology">Computational Musicology.</a> 
 
 Currently, I am interning with <a href = "http://citispotter.com/"> Citispotter Limited </a> which is UK based Tech-Startup that provides AI enabled solutions to fight fake news, misinformation and hate speech.  
