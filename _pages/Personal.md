@@ -3,9 +3,10 @@ title: "Personal"
 permalink: /personal/
 author_profile: true
 ---
-<br><div style="text-align: justify">
+<br>
 Alongside research and academics, I passionately pursue a few hobbies.
-<br><br>
+<br>
+<div style="text-align: justify">
 * <b> Music </b><br>
 I am a passionate musician. For the last 5 years, I have been composing and producing original music that blends Indian Classical Ragas and Western Chord soundscape. 
 <a href="https://sites.google.com/view/geetdnyaneshwari"> Geet Dnyaneshwari : Rendering of divine melody quietly present in Dnyaneshwari</a>, a novel experimental musical project, 
