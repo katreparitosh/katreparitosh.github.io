@@ -17,4 +17,5 @@ I have been the Head of Music Team of my college music group during cultural con
 * <b> Birding and Photography </b><br>
 Around 10 years ago, I developed a deep interest in <a href = "https://en.wikipedia.org/wiki/Ornithology"> Ornithology </a>, Bird-watching and Photography. I make it a point to <i>bird</i> every now and then. Hence, birding has unintentionally become a sub-conscious habit wherever I go ;-)
 <br><br>
+</div>
 <img src = "/images/Github Club.jpg">
