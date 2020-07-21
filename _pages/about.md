@@ -14,7 +14,7 @@ My research interests broadly lie in the fields of <a href = "https://en.wikiped
  
 Given a chance, I want to research in <a href ="https://en.wikipedia.org/wiki/Artificial_consciousness">Sentient AI (Artificial Consciousness)</a> and <a href = "https://en.wikipedia.org/wiki/Computational_musicology">Computational Musicology.</a> <br>
 
-I previously interned at the Applied Artificial Intelligence (AAI) Group of <a href="https://www.cdac.in/"> Center for Development of Advanced Computing (C-DAC)</a>, Pune, India as part of year long final year thesis project. I worked on an AI-NLP task of Event Prediction to predict potential crime/terrorist activities form unstructured textual corpus. The vision was to design a  rule-based algorithm and build a working prototype to demonstrate a <a href = "https://en.wikipedia.org/wiki/Pre-crime#:~:text=Pre%2Dcrime%20intervenes%20to%20punish,occurred%20is%20a%20foregone%20conclusion"> Pre-crime Tool </a>. <br><br> 
+I previously interned at the Applied Artificial Intelligence (AAI) Group of <a href="https://www.cdac.in/"> Center for Development of Advanced Computing (C-DAC)</a>, Pune, India as part of year long final year thesis project. I worked on an AI-NLP task of Event Prediction to predict potential crime/terrorist activities form unstructured textual corpus. The vision was to design a  rule-based algorithm and build a working prototype to demonstrate a <a href = "https://en.wikipedia.org/wiki/Pre-crime#:~:text=Pre%2Dcrime%20intervenes%20to%20punish,occurred%20is%20a%20foregone%20conclusion"> Pre-crime Tool </a>. <br>
 
 Generally, I enjoy working on projects which have my independent thought and concept behind it. It is challenging, but I believe it's an essential growth skill.<br><br> 
 
