@@ -110,7 +110,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "UCzlri9H73GLpjcclxk1V_yA"
+  youtube          : "https://www.youtube.com/channel/UCzlri9H73GLpjcclxk1V_yA"
   wikipedia        :
 
 
@@ -248,7 +248,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: pretty
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
