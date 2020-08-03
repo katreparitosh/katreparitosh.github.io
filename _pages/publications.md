@@ -8,8 +8,8 @@ For proper citations, refer my <a href = "https://scholar.google.com/citations?u
 <br>
 <br>
 <b>[Survey and Gap Analysis on Event Prediction of English Unstructured Texts](http://katreparitosh.github.io/publications/springer_ictis_2020)</b> <br> 
-C-DAC: Krishnanjan Bhattacharjee, S. ShivaKarthik, Swati Mehta, Ajai Kumar <br>
-VIIT: Rushikesh Kothawade, <b><i>Paritosh D. Katre</i></b>, Piyush Dharkar, Neil Pillai, Devika Verma<br>
+Krishnanjan Bhattacharjee, S. ShivaKarthik, Swati Mehta, Ajai Kumar (C-DAC, Pune)<br>
+Rushikesh Kothawade, <b><i>Paritosh D. Katre</i></b>, Piyush Dharkar, Neil Pillai, Devika Verma (VIIT, Pune)<br>
 <i>Springer - 4th International Conference on ICT for Intelligent Systems 2020</i>. <b>ICTIS 2020</b>.
 <br>
 <br>
