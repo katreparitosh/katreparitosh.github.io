@@ -3,7 +3,10 @@ title: "Research Projects"
 permalink: /projects/
 author_profile: true
 ---
-
+<div style="text-align: justify">
+  
+Links to my Personal Research Projects and Experiments
+  
 - Multi-dimensional Analytics Project on Road Accidents of India - [GitHub](https://github.com/katreparitosh/Multi-Dimentional-Data-Analytics-of-Road-Accidents-in-India)
 - Discourse Analytics of Political Speech Transcripts using NLP - [GitHub](https://github.com/katreparitosh/Discourse-Analytics-of-Political-Speech-Transcripts)
   - [IEEE Paper](https://ieeexplore.ieee.org/document/8971605)
@@ -14,3 +17,5 @@ across Indian Waters - [GitHub](https://github.com/katreparitosh/Water-Quality-A
 - Visual Analytic of Power Supply in India using Tableau - [GitHub](https://github.com/katreparitosh/TABLEAU-EDA-Power-Supply-India)
 - Foodify: Android App that Recommends Foodstuff - [GitHub](https://github.com/katreparitosh/Foodify-Android-App)
 - Comprehensive Analytics for Indian Movies - [GitHub](https://github.com/katreparitosh/DATA-ANALYSIS-of-Indian-Movies)
+
+</div>
