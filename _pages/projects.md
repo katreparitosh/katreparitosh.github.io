@@ -5,7 +5,7 @@ author_profile: true
 ---
 <div style="text-align: justify">
   
-Links to my Personal Research Projects and Experiments
+My Personal Research Projects and Experiments
   
 - Multi-dimensional Analytics Project on Road Accidents of India - [GitHub](https://github.com/katreparitosh/Multi-Dimentional-Data-Analytics-of-Road-Accidents-in-India)
 - Discourse Analytics of Political Speech Transcripts using NLP - [GitHub](https://github.com/katreparitosh/Discourse-Analytics-of-Political-Speech-Transcripts)
