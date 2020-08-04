@@ -3,8 +3,7 @@ title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
-<div style="text-align: justify">
-  
+
 - <b>AI-NLP Intern @ <a href="http://citispotter.com/"> Citispotter Limited</a>, Cranfield, United Kingdom (UK)</b> (June 2020 - Present)       
   
   - Implementing deep learning models for NLP applications like Emotion Detection, Aspect-Based Sentiment Analysis, Hate Speech, Insult/Abusive detection, etc.
@@ -21,5 +20,4 @@ author_profile: true
   - Implemented **NER, Co-reference Resolution, and Dependency Parsing** to extract **Relation Triples** and develop a **Knowledge Graph using Neo4j.**
   - Implemented a **Weighted Sum Model (WSM)** in the prediction module.
   - **Tech Stack:** Stanford CoreNLP, NeuralCoref, spaCy, Neo4j, Flask, etc. 
-</div>
   
