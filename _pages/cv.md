@@ -1,7 +1,10 @@
 ---
 layout: archive
-title: "CV"
+title: "CURRICULUM VITAE"
 permalink: /cv/
+header:
+  overlay_image: header_image.jpg
+  overlay_filter: 0.3
 author_profile: true
 redirect_from:
   - /resume
