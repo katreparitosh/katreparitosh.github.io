@@ -10,8 +10,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: justify">
 ## A Little About Me
+
+<div style="text-align: justify">
   
 I'm currently a senior year Computer Science undergraduate student at <a href="http://www.viit.ac.in/">Vishwakarma Institute of Information Technology (VIIT)</a>. Currently, I am interning with <a href = "http://citispotter.com/"> Citispotter Limited </a> which is UK based Tech-Startup that provides AI enabled solutions to fight fake news, misinformation and hate speech. <br><br>
 
