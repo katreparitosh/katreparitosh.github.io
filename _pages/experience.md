@@ -1,6 +1,9 @@
 ---
 title: "Experience"
 permalink: /experience/
+header:
+  overlay_image: header_image.jpg
+  overlay_filter: 0.3
 author_profile: true
 ---
 
