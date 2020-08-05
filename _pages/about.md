@@ -1,6 +1,10 @@
 ---
 permalink: /
 title: "A Little About Me"
+layout: single
+header:
+  overlay_image: header_image.jpg
+  overlay_filter: 0.3
 excerpt: "About me"
 author_profile: true
 redirect_from:
