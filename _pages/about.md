@@ -1,13 +1,19 @@
 ---
 permalink: /
-title: "A Little About Me"
-excerpt: "About me"
+title: <br>
+layout: single
+header:
+  overlay_image: header_image.jpg
+  overlay_filter: 0.3
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+## A Little About Me
+
 <div style="text-align: justify">
+  
 I'm currently a senior year Computer Science undergraduate student at <a href="http://www.viit.ac.in/">Vishwakarma Institute of Information Technology (VIIT)</a>. Currently, I am interning with <a href = "http://citispotter.com/"> Citispotter Limited </a> which is UK based Tech-Startup that provides AI enabled solutions to fight fake news, misinformation and hate speech. <br><br>
 
 My research interests broadly lie in the fields of <a href = "https://en.wikipedia.org/wiki/Natural_language_processing"> Natural Language Processing (AI-NLP) </a> and <a href = "https://en.wikipedia.org/wiki/Machine_learning"> Machine Learning (AI/ML) </a>. I am enthusiastic about doing applied research and colaboration in these fields. Given a chance, I want to research in <a href ="https://en.wikipedia.org/wiki/Artificial_consciousness">Sentient AI (Artificial Consciousness)</a> and <a href = "https://en.wikipedia.org/wiki/Computational_musicology">Computational Musicology.</a> <br><br>
