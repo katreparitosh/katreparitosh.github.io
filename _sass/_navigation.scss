@@ -349,7 +349,7 @@
   margin: 0;
   padding: 0.5rem 1rem;
   font-family: $sans-serif-narrow;
-  font-size: $type-size-5;
+  font-size: $type-size-6;
   font-weight: bold;
 }
 
@@ -380,11 +380,12 @@
   box-shadow: $box-shadow;
 
   .nav__title {
-    color: #fff;
+    color: #000;
     font-size: $type-size-6;
     background: $primary-color;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
+     width: 200px;
   }
 }
 
