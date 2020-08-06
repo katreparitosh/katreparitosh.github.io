@@ -12,6 +12,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Full CV](http://alcantarar.github.io/files/Paritosh_Katre_CV.pdf){: .btn .btn--primary .btn--large}
+[Download Full CV](http://katreparitosh.github.io/files/Paritosh_Katre_CV.pdf){: .btn .btn--primary .btn--large}
 
 <iframe src="../files/Paritosh_Katre_CV.pdf" height="600" width="800"></iframe> 
