@@ -7,7 +7,7 @@ header:
 author_profile: true
 ---
 
-- <b>AI-NLP Intern @ <a href="http://citispotter.com/"> Citispotter Limited</a>, Cranfield, United Kingdom (UK)</b> (June 2020 - Present)       
+- <b>June 2020 - Present: AI-NLP Intern @ <a href="http://citispotter.com/"> Citispotter Limited</a>, Cranfield, United Kingdom (UK)</b>      
   Guide: Pallav Sethiya, CEO, Citispotter Limited
   - Implementing deep learning models for NLP applications like Emotion Detection, Aspect-Based Sentiment Analysis, Hate Speech, Insult/Abusive detection, etc.
   - Working on **BERT, Transformers, fasttext and Attention Mechanism.** 
@@ -17,7 +17,7 @@ author_profile: true
   - Followed the novel *“work-from-home”* norms of submitting technological outputs with recorded code walkthroughs for the teams overseas.
   - Delivered around **15** Work Packages focusing in AI-NLP applications till date.
   
-- <b>Research Intern (NLP) @ Applied AI Group of <a href="https://www.cdac.in/">C-DAC</a>, Pune </b>            (April 2019 - May 2020) </br>
+- <b>April 2019 - May 2020: Research Intern (NLP) @ Applied AI Group of <a href="https://www.cdac.in/">C-DAC</a>, Pune</b><br>
   Guide: Dr. Krishnanjan Bhattacharjee and Prof. Devika Verma
   - Developed a **‘Pre-crime Tool’** that predicts potential criminal activities from English Unstructured Texts using a Rule-based Classical NLP approach. 
   - Implemented **NER, Co-reference Resolution, and Dependency Parsing** to extract **Relation Triples** and develop a **Knowledge Graph using Neo4j.**
