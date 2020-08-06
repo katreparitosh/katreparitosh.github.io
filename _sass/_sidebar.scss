@@ -68,7 +68,6 @@
     margin-right: -1 * $right-sidebar-width-narrow;
     padding-left: 1em;
     z-index: 10;
-  }
    
    &.sticky {
       @include clearfix();
