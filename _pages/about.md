@@ -3,7 +3,7 @@ permalink: /
 title: <br>
 layout: single
 header:
-  overlay_image: sample_header.jpg
+  overlay_image: sample_header_edit.jpg
   overlay_filter: 0.3
 author_profile: true
 redirect_from:
