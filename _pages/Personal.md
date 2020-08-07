@@ -22,7 +22,7 @@ I primarily use <a href = "https://www.apple.com/in/mac/garageband/">Garageband<
 
 <b> Birding and Photography :camera: </b>
 
-When I was 10 years old, I developed a deep interest in <a href = "https://en.wikipedia.org/wiki/Ornithology"> Ornithology </a>, Bird-watching and Photography. As a school-going kid, I would regularly go out on weekends to <i>bird</i> with my friends, come home, edit the photographs on Photoshop, and upload on Facebook. This was a ritual until high-school, but now, birding and nature-walks have become more personal and relaxing ventures :)
+When I was 10 years old, I developed a deep interest in <a href = "https://en.wikipedia.org/wiki/Ornithology"> Ornithology </a>, Bird-watching and Photography. As a school-going kid, I would regularly go out on weekends to <i>bird</i> with my friends, come home, edit the photographs on Adobe Photoshop, and upload on Facebook. This was a ritual until high-school, but now, birding and nature-walks have become more personal and relaxing ventures :)
 <br>
 
 <img src = "/images/Github Club.jpg">
