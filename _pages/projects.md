@@ -2,7 +2,7 @@
 title: "Research Projects"
 permalink: /projects/
 header:
-  overlay_image: sample_header_edit.jpg
+  overlay_image: header_1.jpg
   overlay_filter: 0.3
 author_profile: true
 ---
