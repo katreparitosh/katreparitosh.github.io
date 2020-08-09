@@ -249,6 +249,7 @@ DEPENDENCIES
   hawkins
   jekyll-feed
   jekyll-sitemap
+  jekyll-seo-tag
 
 BUNDLED WITH
    1.11.2
