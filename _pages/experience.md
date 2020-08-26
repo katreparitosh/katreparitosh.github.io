@@ -8,15 +8,7 @@ author_profile: true
 ---
 
 <b>June 2020 - Present: AI-NLP Intern @ <a href="http://citispotter.com/"> Citispotter Limited</a>, Cranfield, United Kingdom (UK)</b><br>
-  Guide: Pallav Sethiya, CEO, Citispotter Limited
-<!---  - Implementing deep learning models for NLP applications like Emotion Detection, Aspect-Based Sentiment Analysis, Hate Speech, Insult/Abusive detection, etc.
-  - Working on **BERT, Transformers, fasttext and Attention Mechanism.** 
-  - Utilizing Model Explainers such as **LIME** using *eli5* and *TextExplainer libraries.*
-  - Performing **resource creation** in terms of datasets, lexicons and research.
-  - Prepared Strategy and Case-Study Reports on research topics like *“Scope for ML/NLP for assessing Corporate Reputation”* etc.
-  - Followed the novel *“work-from-home”* norms of submitting technological outputs with recorded code walkthroughs for the teams overseas.
-  - Delivered around **15** Work Packages focusing in AI-NLP applications till date.
--->
+  Guide: Pallav Sethiya, CEO, Citispotter Limited <br>
   
 <b>April 2019 - May 2020: Research Intern (NLP) @ Applied AI Group of <a href="https://www.cdac.in/">C-DAC</a>, Pune</b><br>
   Guide: Dr. Krishnanjan Bhattacharjee and Prof. Devika Verma
