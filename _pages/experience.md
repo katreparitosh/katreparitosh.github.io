@@ -7,7 +7,9 @@ header:
 author_profile: true
 ---
 
-<b>June 2020 - Present: AI-NLP Intern @ <a href="http://citispotter.com/"> Citispotter Limited</a>, Cranfield, United Kingdom (UK)</b><br>
+<b>Oct 2020 - Present: NLP Lead Engineer @ <a href="http://citispotter.com/"> Citispotter Limited</a>, Cranfield, United Kingdom (UK)</b><br>
+  
+<b>June 2020 - Oct 2020: AI-NLP Intern @ <a href="http://citispotter.com/"> Citispotter Limited</a>, Cranfield, United Kingdom (UK)</b><br>
   Guide: Pallav Sethiya, CEO, Citispotter Limited <br>
   
 <b>April 2019 - May 2020: Research Intern (NLP) @ Applied AI Group of <a href="https://www.cdac.in/">C-DAC</a>, Pune</b><br>
