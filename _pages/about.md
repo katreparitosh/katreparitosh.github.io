@@ -14,7 +14,9 @@ redirect_from:
 
 <div style="text-align: justify">
   
-I'm a senior year Computer Science undergraduate student at <a href="http://www.viit.ac.in/">Vishwakarma Institute of Information Technology (VIIT)</a>. Currently, I am remotely working with <a href = "http://citispotter.com/"> Citispotter Limited </a> which is UK based Tech-Startup that provides AI enabled solutions to fight fake news, misinformation and hate speech. <br><br>
+Hi! I'm a senior year Computer Science undergraduate student at <a href="http://www.viit.ac.in/">Vishwakarma Institute of Information Technology (VIIT)</a>. 
+
+Currently, I am remotely working as a NLP Lead with <a href = "http://citispotter.com/"> Citispotter Limited </a> which is UK based Tech-Startup that provides AI enabled solutions to fight fake news, misinformation and hate speech. <br><br>
 
 My research interests broadly lie in the fields of <a href = "https://en.wikipedia.org/wiki/Natural_language_processing"> Natural Language Processing (AI-NLP) </a> and <a href = "https://en.wikipedia.org/wiki/Machine_learning"> Machine Learning (AI/ML) </a>. I am enthusiastic about doing applied research and collaboration in these fields. Given a chance, I want to research in <a href ="https://en.wikipedia.org/wiki/Artificial_consciousness">Sentient AI (Artificial Consciousness)</a> and <a href = "https://en.wikipedia.org/wiki/Computational_musicology">Computational Musicology.</a> <br><br>
 
@@ -22,7 +24,7 @@ I previously interned at the Applied Artificial Intelligence (AAI) Group of <a h
 
 Generally, I enjoy working on projects which have my independent thought and concept behind it. It is challenging, but I believe it's an essential growth skill.<br><br>
 
-When I'm not doing work/research, I play music and bird. Refer the <a href = "https://katreparitosh.github.io/personal/"> Personal Tab </a> to read about my other passionate pursuits :)
+When I'm not working, I play music and bird. Refer the <a href = "https://katreparitosh.github.io/personal/"> Personal Tab </a> to read about my other passionate pursuits :)
 </div>
 <br>
 <img src = "/images/IEEE Talk.jpg">
