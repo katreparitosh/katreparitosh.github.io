@@ -8,8 +8,10 @@ venue: 'Springer - 4th International Conference on ICT for Intelligent Systems (
 ---
 <div style="text-align: justify">
   
-Scheduled for publication in - 
+Published in 
 <b>Springer : Lecture Notes in Networks and Systems (LNNS) Vol. 141, Amit Joshi et al: MACHINE LEARNING FOR PREDICTIVE ANALYSIS.</b>
+
+[View paper here](https://link.springer.com/book/10.1007/978-981-15-7106-0)
 
 <h3>Abstract</h3>
 
