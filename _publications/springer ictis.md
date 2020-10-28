@@ -6,15 +6,12 @@ excerpt: ''
 date: 2020-03-15
 venue: 'Springer - 4th International Conference on ICT for Intelligent Systems (ICTIS 2020)'
 ---
-<div style="text-align: justify">
-  
 Published in 
 <b>Springer : Lecture Notes in Networks and Systems (LNNS) Vol. 141, Amit Joshi et al: MACHINE LEARNING FOR PREDICTIVE ANALYSIS.</b>
 
-<br>
-
 [View paper here](https://link.springer.com/book/10.1007/978-981-15-7106-0)
 
+<div style="text-align: justify">
 <h3>Abstract</h3>
 
 In the age of Big Data Analytics, text mining on large sets of digital textual data does not suffice all the analytic purposes. 
