@@ -14,7 +14,7 @@ redirect_from:
 
 <div style="text-align: justify">
   
-Hi! I'm a senior year Computer Science undergraduate student at <a href="http://www.viit.ac.in/">Vishwakarma Institute of Information Technology (VIIT)</a>.<br><br> 
+Hi! I am Paritosh. I did my undergrad in Computer Science from <a href="http://www.viit.ac.in/">Vishwakarma Institute of Information Technology (VIIT)</a>.<br><br> 
 
 Currently, I am remotely working as a NLP Lead on end-to-end research, design, build, development, and deployment of NLP Systems for <a href = "http://citispotter.com/"> Citispotter Limited </a>, Cambridge, UK. Citispotter is a UK-based tech-startup that provides AI-enabled technologies for intelligent content analysis to fight textual harmful signals, fake news, misinformation, hate speech, etc.<br><br> 
 
