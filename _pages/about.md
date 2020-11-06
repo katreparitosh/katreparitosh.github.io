@@ -16,7 +16,7 @@ redirect_from:
   
 Hi! I'm a senior year Computer Science undergraduate student at <a href="http://www.viit.ac.in/">Vishwakarma Institute of Information Technology (VIIT)</a>. 
 
-Currently, I am remotely working as a NLP Lead with <a href = "http://citispotter.com/"> Citispotter Limited </a> which is UK based Tech-Startup that provides AI enabled solutions to fight fake news, misinformation and hate speech. <br><br>
+Currently, I am a NLP Lead at <a href = "http://citispotter.com/"> Citispotter Limited </a> working on end-to-end research, design, build, development, and deployment of NLP Systems. Citispotter is a UK-based tech-startup that provides AI-enabled technologies for intelligent content analysis to fight textual harmful signals, fake news, misinformation, hate speech, etc.<br><br>
 
 My research interests broadly lie in the fields of <a href = "https://en.wikipedia.org/wiki/Natural_language_processing"> Natural Language Processing (AI-NLP) </a> and <a href = "https://en.wikipedia.org/wiki/Machine_learning"> Machine Learning (AI/ML) </a>. I am enthusiastic about doing applied research and collaboration in these fields. Given a chance, I want to research in <a href ="https://en.wikipedia.org/wiki/Artificial_consciousness">Sentient AI (Artificial Consciousness)</a> and <a href = "https://en.wikipedia.org/wiki/Computational_musicology">Computational Musicology.</a> <br><br>
 
