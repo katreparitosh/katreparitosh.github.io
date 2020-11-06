@@ -7,17 +7,18 @@ header:
 author_profile: true
 ---
 
-<b>NLP Lead Engineer @ <a href="http://citispotter.com/"> Citispotter Limited</a>, Cambridge, United Kingdom (UK)</b> (Oct 2020 - Present) <br>
-
----
-  
-<b>NLP Intern @ <a href="http://citispotter.com/"> Citispotter Limited</a>, Cambridge, United Kingdom (UK)</b> (June 2020 - Oct 2020) <br>
-  Guide: Pallav Sethiya, CEO, Citispotter Limited <br>
+<b>NLP Lead Engineer @ <a href="http://citispotter.com/"> Citispotter Limited</a>, Cambridge, United Kingdom (UK)</b><i>(Oct 2020 - Present)</i><br>
+  Leader: [Pallav Sethiya](https://www.linkedin.com/in/pallavsethiya/), CEO & Co-Founder, Citispotter Limited <br>
   
 ---
   
-<b>Research Intern (NLP) @ Applied AI Group of <a href="https://www.cdac.in/">C-DAC</a>, Pune</b> (April 2019 - May 2020) <br>
-  Guide: Dr. Krishnanjan Bhattacharjee and Prof. Devika Verma
+<b>NLP Intern @ <a href="http://citispotter.com/"> Citispotter Limited</a>, Cambridge, United Kingdom (UK)</b> <i>(June 2020 - Oct 2020)</i><br>
+  Leader: [Pallav Sethiya](https://www.linkedin.com/in/pallavsethiya/), CEO & Co-Founder, Citispotter Limited <br>
+  
+---
+  
+<b>Research Intern (NLP) @ Applied AI Group of <a href="https://www.cdac.in/">C-DAC</a>, Pune</b> <i>(April 2019 - May 2020)</i><br>
+  Guide: [Dr. Krishnanjan Bhattacharjee](https://www.linkedin.com/in/dr-krishnanjan-bhattacharjee-b1852141/) and [Prof. Devika Verma](https://www.linkedin.com/in/devikaverma/)
   - Developed a **‘Pre-crime Tool’** that predicts potential criminal activities from English Unstructured Texts using a Rule-based Classical NLP approach. 
   - Implemented **NER, Co-reference Resolution, and Dependency Parsing** to extract **Relation Triples** and develop a **Knowledge Graph using Neo4j.**
   - Implemented a **Weighted Sum Model (WSM)** in the prediction module.
