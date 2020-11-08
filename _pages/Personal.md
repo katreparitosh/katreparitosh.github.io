@@ -18,7 +18,7 @@ where I have composed over 30 songs together with my father, each distinct in it
 I primarily use <a href = "https://www.apple.com/in/mac/garageband/">Garageband</a>, <a href = "https://www.image-line.com/flstudio/">FL Studio</a>,
 <a href = "https://www.spitfireaudio.com/labs/">Spitfire Audio</a> and <a href = "https://focusrite.com/en"> Focusrite </a> for my music recording and production purposes. I play over 5 instruments and I have been the Head of Music Team of the college music group during cultural concerts and inter-state theater competitions.
 
-[Link to Geet Dnyaneshwari - Facebook](https://www.facebook.com/geet.dnyaneshwari)
+[Link to Geet Dnyaneshwari - Facebook](https://www.facebook.com/geet.dnyaneshwari)<br>
 [Link to Geet Dnyaneshwari - YouTube](https://www.youtube.com/channel/UCzlri9H73GLpjcclxk1V_yA/featured)
 
 <b> Birding and Photography </b>
