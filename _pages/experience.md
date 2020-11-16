@@ -8,7 +8,6 @@ author_profile: true
 ---
 
 <b>NLP Lead Engineer @ <a href="http://citispotter.com/"> Citispotter Limited</a>, Cambridge, United Kingdom (UK)</b><i> (Oct 2020 - Present)</i><br>
-  Leader: [Pallav Sethiya](https://www.linkedin.com/in/pallavsethiya/), CEO & Co-Founder, Citispotter Limited <br>
   
 ---
   
