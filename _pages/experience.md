@@ -13,7 +13,7 @@ author_profile: true
 ---
   
 <b>NLP Intern @ <a href="http://citispotter.com/"> Citispotter Limited</a>, Cambridge, United Kingdom (UK)</b><br>
-<i>(June 2020 - Oct 2020)</i><br>
+<i>(June 2020 - Sept 2020)</i><br>
 Leader: [Pallav Sethiya](https://www.linkedin.com/in/pallavsethiya/), CEO & Co-Founder, Citispotter Limited <br>
   
 ---
