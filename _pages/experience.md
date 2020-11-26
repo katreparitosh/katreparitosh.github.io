@@ -9,6 +9,7 @@ author_profile: true
 
 <b>NLP Lead Engineer @ <a href="http://citispotter.com/"> Citispotter Limited</a>, Cambridge, United Kingdom (UK)</b><br>
 <i>(Oct 2020 - Present)</i>
+
 ---
   
 <b>NLP Intern @ <a href="http://citispotter.com/"> Citispotter Limited</a>, Cambridge, United Kingdom (UK)</b><br>
