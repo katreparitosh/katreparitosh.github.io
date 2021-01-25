@@ -8,7 +8,7 @@ venue: 'Elsevier Scopus - International Journal of Recent Technology and Enginee
 ---
 Received the <strong> BEST PAPER AWARD </strong> at NCRAC-2019, Coimbatore <br>
 
-[View paper here](https://www.semanticscholar.org/paper/International-Journal-of-Recent-Technology-and-Katre/27c87be7b0fbef48a256fc2ad5df890625498f7c)
+[View paper here](https://www.researchgate.net/profile/Paritosh_Katre/publication/341189799_NLP_Based_Text_Analytics_and_Visualization_of_Political_Speeches/links/5f0308b2a6fdcc4ca44ea2ea/NLP-Based-Text-Analytics-and-Visualization-of-Political-Speeches.pdf)
 
 <div style="text-align: justify">
 <h3> Abstract </h3>
