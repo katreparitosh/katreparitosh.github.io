@@ -15,7 +15,8 @@ main:
   - title: "Personal"
     url: /personal/
  
-
+  - title: "Learning"
+    url: /learning/
 
 #  - title: "Blog Posts"
 #    url: /year-archive/
