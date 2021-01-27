@@ -6,4 +6,4 @@ header:
   overlay_filter: 0.3
 author_profile: true
 ---
-<center>Learning Resources</center>
+## <center>LEARNING</center>
