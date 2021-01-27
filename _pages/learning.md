@@ -1,6 +1,6 @@
 ---
 title: "Learning"
-permalink: /personal/
+permalink: /learning/
 header:
   overlay_image: header_1.jpg
   overlay_filter: 0.3
