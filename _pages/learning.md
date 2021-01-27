@@ -14,7 +14,7 @@ When I am attempting to learn something new, I generally spend a significant amo
 
 ## Books
 
-- [The Language Instinct by Steven Pinker](https://en.wikipedia.org/wiki/The_Language_Instinct) || Read Kaustubh Dhole's [summary blog](https://kaustubhdhole.wordpress.com/2020/11/10/discussing-the-language-instinct-nlp-researcher/) on this book.
+- [The Language Instinct by Steven Pinker](https://en.wikipedia.org/wiki/The_Language_Instinct) &#124; Read Kaustubh Dhole's [summary blog](https://kaustubhdhole.wordpress.com/2020/11/10/discussing-the-language-instinct-nlp-researcher/) on this book.
 - [Practical Natural Language Processing by Sowmya Vajjala, et al.](https://www.oreilly.com/library/view/practical-natural-language/9781492054047/) | Bridges the gap between NLP research and practical applications.
 - [Linguistic Fundamentals for Natural Language Processing by Emily M. Bender](https://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020) | Explains core linguistic principles succinctly.
 - [Speech and Language Processing by Dan Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/) | Comprehensive book to understand theoretical aspects of ML/NLP
