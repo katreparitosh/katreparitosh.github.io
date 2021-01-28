@@ -8,7 +8,7 @@ author_profile: true
 ---
 # <center>LEARNING</center>
 
-When I am attempting to learn something new, I generally spend a significant amount of time finding and collecting relevant resources. As a habit, I pool these links in an excel sheet to keep the assortment handy and track/refer the stuff whenever required. Just thought of open-sourcing some of the material that was extremely useful and though-provoking for me. Hope these lists are of help!
+When I am attempting to learn something new, I generally spend a significant amount of time finding and collecting relevant resources. As a habit, I pool these links in an excel sheet to keep the assortment handy and track/refer the stuff whenever required. Just thought of open-sourcing some of these that I felt was extremely useful and though-provoking for me. Hope these lists are of help!
 
 <span style = "font-size:0.75em"> *Note - Please be mindful that I use these resources as quick references as and when. Also, resources could be Books, Online PDFs, Research Papers, Blogs, Medium Articles, Reddit Threads or even Quora Answers. I'll try to share as much as possible!*</span>
 
@@ -27,8 +27,15 @@ When I am attempting to learn something new, I generally spend a significant amo
 - [NLP: A Paninian Perspective by Akshar Bharat, et al.](https://cdn.iiit.ac.in/cdn/ltrc.iiit.ac.in/downloads/nlpbook/nlp-panini.pdf)<br>
   Provides a [Paninian](https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini) perspective of NLP on Indian Languages. 
 
+## Blogs
+
+- [Pratik Bhavsar](https://www.pratik.ai/)
+  Great blogs on NLP, ML and Data Science in general. 
+  He also run a Data Science Slack community [maxpool.club](http://maxpool.club/) that holds some great discussions!
+- [Chris McCormick](http://mccormickml.com/tutorials/) and [Jay Alammar](http://jalammar.github.io/)
+  Perhaps the best articles to understand inner workings of Language Models, Transformers, BERT, etc.
+- [Eugene Yan](https://eugeneyan.com/writing/)
+  Actively blogs about ML, Career Growth & Productivity 
 
 ## Research Papers
-
-
-## Blogs
+  
