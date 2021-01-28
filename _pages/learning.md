@@ -22,9 +22,9 @@ When I am attempting to learn something new, I generally spend a significant amo
   Explains core linguistic principles succinctly.
 - [Speech and Language Processing by Dan Jurafsky & James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)<br>
   Comprehensive book to understand theoretical aspects of ML/NLP
-- [Interpretable Machine Learning by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
+- [Interpretable Machine Learning by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)<br>
   Great read to understand Machine Learning Interpretability or Explainable AI
-- [NLP: A Paninian Perspective by Akshar Bharat, et al.](https://cdn.iiit.ac.in/cdn/ltrc.iiit.ac.in/downloads/nlpbook/nlp-panini.pdf)
+- [NLP: A Paninian Perspective by Akshar Bharat, et al.](https://cdn.iiit.ac.in/cdn/ltrc.iiit.ac.in/downloads/nlpbook/nlp-panini.pdf)<br>
   Provides a [Paninian](https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini) perspective of NLP on Indian Languages. 
 
 
