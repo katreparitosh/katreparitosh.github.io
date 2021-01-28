@@ -14,7 +14,7 @@ redirect_from:
 
 <div style="text-align: justify">
   
-Hi! I am Paritosh. I completed my undergrad in Computer Science from <a href="http://www.viit.ac.in/">Vishwakarma Institute of Information Technology (VIIT)</a>.<br><br> 
+👋 Hi! I am Paritosh. I completed my undergrad in Computer Science from <a href="http://www.viit.ac.in/">Vishwakarma Institute of Information Technology (VIIT)</a>.<br><br> 
 
 Currently, I am remotely working as a NLP Lead on end-to-end research, design, build, development, and deployment of NLP Systems for <a href = "http://citispotter.com/"> Citispotter Limited </a>, Cambridge, UK. Citispotter is a UK-based tech-startup that provides AI-enabled technologies for intelligent content analysis to fight textual harmful signals, fake news, misinformation, hate speech, etc.<br><br> 
 
@@ -24,7 +24,7 @@ I previously interned at the Applied Artificial Intelligence (AAI) Group of <a h
 
 Generally, I enjoy working on projects which have my independent thought and concept behind it. It is challenging, but I believe it's an essential growth skill.<br><br>
 
-When I'm not working, I play music and bird. Refer the <a href = "https://katreparitosh.github.io/personal/"> Personal Tab </a> to read about my other passionate pursuits :)
+When I'm not working, I play music and bird. Read the <a href = "https://katreparitosh.github.io/personal/"> Personal Tab </a> to know about my other passionate pursuits :)
 </div>
 <br>
 <img src = "/images/IEEE Talk.jpg">
