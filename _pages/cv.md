@@ -14,6 +14,6 @@ redirect_from:
 
 [Download Full CV](http://katreparitosh.github.io/files/Paritosh_Katre_CV.pdf){: .btn .btn--primary .btn--large}
 
-Kindly PM me for updated CV, if required.
+Kindly e-mail me for updated CV.
 
 <iframe src="../files/Paritosh_Katre_CV.pdf" height="600" width="800"></iframe> 
