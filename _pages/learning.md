@@ -1,14 +1,14 @@
 ---
-title: "Learning"
-permalink: /learning/
+title: "Resources"
+permalink: /resources/
 header:
   overlay_image: header_1.jpg
   overlay_filter: 0.3
 author_profile: true
 ---
-# <center>LEARNING</center>
+# <center>RESOURCES</center>
 
-I generally spend a significant amount of time finding relevant resources to broaden my knowledge and learn new things. As a habit, I pool the links to these resources in an excel sheet to keep the assortment handy and track/refer the stuff whenever required. Thought of open-sourcing some of the material that I felt was extremely useful and though-provoking for me. Hope these lists are of help!
+I generally spend time a lot of time searching for relevant resources to broaden my knowledge and learn new things. Hence, as a habit, I always pool the links in an excel sheet to keep the assortment handy. It's always good to have the resources around and refer the stuff whenever required. Thought of listing the material that I strongly feel is extremely useful and though-provoking. Hope these lists are of help!
 
 <span style = "font-size:0.90em"> *Note - Please be mindful that most of the times I use these resources as quick references. Also, resources could be Books, Online PDFs, Research Papers, Blogs, Medium Articles, Reddit Threads or even Quora Answers. I'll try to share as much as possible!*</span>
 
