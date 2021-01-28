@@ -29,12 +29,12 @@ When I am attempting to learn something new, I generally spend a significant amo
 
 ## Blogs
 
-- [Pratik Bhavsar](https://www.pratik.ai/)
-  Great blogs on NLP, ML and Data Science in general. 
+- [Pratik Bhavsar](https://www.pratik.ai/)  
+  Great blogs on NLP, ML and Data Science in general.  
   He also run a Data Science Slack community [maxpool.club](http://maxpool.club/) that holds some great discussions!
-- [Chris McCormick](http://mccormickml.com/tutorials/) and [Jay Alammar](http://jalammar.github.io/)
+- [Chris McCormick](http://mccormickml.com/tutorials/) and [Jay Alammar](http://jalammar.github.io/)  
   Perhaps the best articles to understand inner workings of Language Models, Transformers, BERT, etc.
-- [Eugene Yan](https://eugeneyan.com/writing/)
+- [Eugene Yan](https://eugeneyan.com/writing/)  
   Actively blogs about ML, Career Growth & Productivity 
 
 ## Research Papers
