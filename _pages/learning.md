@@ -10,7 +10,7 @@ author_profile: true
 
 When I am attempting to learn something new, I generally spend a significant amount of time finding and collecting relevant resources. As a habit, I pool these links in an excel sheet to keep the assortment handy and track/refer the stuff whenever required. Just thought of open-sourcing some of the material that was extremely useful and though-provoking for me. Hope these lists are of help!
 
-<span style = "font-size:1em">*Note - Please be mindful that I use these resources as quick references as and when. Also, resources could be Books, Online PDFs, Research Papers, Blogs, Medium Articles, Reddit Threads or even Quora Answers. I'll try to share as much as possible!*</span>
+<span style = "font-size:0.5em"> *Note - Please be mindful that I use these resources as quick references as and when. Also, resources could be Books, Online PDFs, Research Papers, Blogs, Medium Articles, Reddit Threads or even Quora Answers. I'll try to share as much as possible!*</span>
 
 ## Books
 
