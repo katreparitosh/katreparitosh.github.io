@@ -35,6 +35,14 @@ I generally spend time a lot of time searching for relevant resources to broaden
   Perhaps the best articles to understand inner workings of Language Models, Transformers, BERT, etc.
 - [Eugene Yan](https://eugeneyan.com/writing/)  
   Actively blogs about ML, Career Growth & Productivity 
-
+- [Kaustubh Dhole](https://kaustubhdhole.wordpress.com/)  
+  Comprehensive blogs on niche topics in NLP, ML
+- [Rahul Agarwal](https://mlwhiz.com/blog/)  
+  His blogs explain deep basics of Python programming and ML.
+- [Ajit Rajasekharan](https://ajitrajasekharan.medium.com/)  
+  Super blogs on Deep Learning, BERT models, and Embeddings.
+  
 ## Research Papers
+
+
   
