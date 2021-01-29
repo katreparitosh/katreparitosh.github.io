@@ -12,7 +12,7 @@ redirect_from:
 ---
 ## A Little About Me
 
-<div style="text-align: justify">
+<p align="justify">
   
 👋 Hi! I am Paritosh. 
 
@@ -30,7 +30,6 @@ On the fun side, I am a passionate musician actively composing original music th
 
 🎹 Know more about my music here - [Personal Tab](https://katreparitosh.github.io/personal/)  
 📚 Compiled list of [Resources](https://katreparitosh.github.io/resources/)  
-</div>
-
+</p>
 <br>
 <img src = "/images/IEEE Talk.jpg">
