@@ -30,7 +30,9 @@ On the fun side, I am a passionate musician actively composing original music th
 
 🎹 Know more about my music here - <a href = "https://katreparitosh.github.io/personal/">Personal Tab</a><br><br>   
 📚 Compiled list of <a href = "https://katreparitosh.github.io/resources/">Resources</a><br><br> 
-</p>
+
 <br>
 <img src = "/images/IEEE Talk.jpg">
-*2019 IEEE 9th IACC, Tiruchirappalli*
+<i>2019 IEEE 9th IACC, Tiruchirappalli<i>
+
+</p>
