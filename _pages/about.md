@@ -14,17 +14,23 @@ redirect_from:
 
 <div style="text-align: justify">
   
-👋 Hi! I am Paritosh. I completed my undergrad in Computer Science from <a href="http://www.viit.ac.in/">Vishwakarma Institute of Information Technology (VIIT)</a>.<br><br> 
+👋 Hi! I am Paritosh. 
 
-Currently, I am remotely working as a NLP Lead on end-to-end research, design, build, development, and deployment of NLP Systems for <a href = "http://citispotter.com/"> Citispotter Limited </a>, Cambridge, UK. Citispotter is a UK-based tech-startup that provides AI-enabled technologies for intelligent content analysis to fight textual harmful signals, fake news, misinformation, hate speech, etc.<br><br> 
+I recently finished my undergrad in Computer Science from <a href="http://www.viit.ac.in/">Vishwakarma Institute of Information Technology (VIIT)</a>.<br><br> 
 
-I like to describe my work domain as conducting E2E applied research in <a href = "https://en.wikipedia.org/wiki/Natural_language_processing"> Natural Language Processing (AI-NLP) </a>, <a href = "https://en.wikipedia.org/wiki/Machine_learning"> Machine Learning (ML)</a> and <a href = "https://en.wikipedia.org/wiki/MLOps#:~:text=MLOps%20(a%20compound%20of%20%E2%80%9Cmachine,(or%20deep%20learning)%20lifecycle."> MLOps </a>. I am enthusiastic about doing applied research and collaboration in these fields. Given a chance, I want to research in <a href ="https://en.wikipedia.org/wiki/Artificial_consciousness">Sentient AI (Artificial Consciousness)</a> and <a href = "https://en.wikipedia.org/wiki/Computational_musicology">Computational Musicology</a> where my research and creative interests both converge.<br><br>
+Currently, I am remotely working as a NLP Lead on end-to-end research, design, build, development, and deployment of NLP Systems for <a href = "http://citispotter.com/"> Citispotter Limited </a>, Cambridge, UK. Citispotter is a UK-based tech-startup that provides AI-driven technologies for intelligent content analysis to optimize emotional engagement, identify harmful signals, and assess content credibility.<br><br> 
 
-I previously interned at the Applied Artificial Intelligence (AAI) Group of <a href="https://www.cdac.in/"> Center for Development of Advanced Computing (C-DAC)</a>, Pune, India as part of my year long final year thesis project. I worked on an AI-NLP task of Event Prediction to predict potential crime/terrorist activities form unstructured textual corpus. The vision was to design a rule-based algorithm and build a working prototype to demonstrate a <a href = "https://en.wikipedia.org/wiki/Pre-crime#:~:text=Pre%2Dcrime%20intervenes%20to%20punish,occurred%20is%20a%20foregone%20conclusion"> Pre-crime Tool </a>. <br><br>
+I am interested in conducting E2E applied research in the intersection of Natural Language Processing (NLP), Machine Learning (ML), MLOPs and AI-driven Product Conceptualization. Given a chance, I want to research about [Sentient AI (Artificial Consciousness)](https://en.wikipedia.org/wiki/Artificial_consciousness) and [Computational Musicology](https://en.wikipedia.org/wiki/Computational_musicology) where my research and creative interests both converge.<br><br>
+
+In 2019, I interned at the Applied AI Group of [Center for Development of Advanced Computing (C-DAC)](https://www.cdac.in/)Pune as part of my year long final year thesis project. I worked on an AI-NLP task of Event Prediction to predict potential crime/terrorist activities form unstructured textual corpora. The vision was to design an algorithm and build a working prototype to demonstrate a [Pre-crime Tool](https://en.wikipedia.org/wiki/Pre-crime).<br><br>
 
 Generally, I enjoy working on projects which have my independent thought and concept behind it. It is challenging, but I believe it's an essential growth skill.<br><br>
 
-When I'm not working, I play music and bird. Read the <a href = "https://katreparitosh.github.io/personal/"> Personal Tab </a> to know about my other passionate pursuits :)
+On the fun side, I am a passionate musician actively composing original music that finds the sweet spot between Indian Classical Ragas and Western Orchestral Soundscape. I also produce music and play 5 instruments as well.  
+
+🎹 Read more to know about my music here - [Personal Tab](https://katreparitosh.github.io/personal/)  
+📚 Compiled list of [Resources](https://katreparitosh.github.io/resources/)  
 </div>
+
 <br>
 <img src = "/images/IEEE Talk.jpg">
