@@ -26,13 +26,13 @@ In 2019, I interned at the Applied AI Group of <a href = "https://www.cdac.in/">
 
 Generally, I enjoy working on projects which have my independent thought and concept behind it. It is challenging, but I believe it's an essential growth skill.<br><br>
 
-On the fun side, I am a passionate musician actively composing original music that finds the sweet spot between Indian Classical Ragas and Western Orchestral Soundscape. I also produce music and play 5 instruments as well.  
+On the fun side, I am a passionate musician actively composing original music that finds the sweet spot between Indian Classical Ragas and Western Orchestral Soundscape. I also produce music and play 5 instruments as well.<br><br>     
 
 🎹 Know more about my music here - <a href = "https://katreparitosh.github.io/personal/">Personal Tab</a><br><br>   
 📚 Compiled list of <a href = "https://katreparitosh.github.io/resources/">Resources</a><br><br> 
-
+</p>
 <br>
 <img src = "/images/IEEE Talk.jpg">
 <i>2019 IEEE 9th IACC, Tiruchirappalli<i>
 
-</p>
+
