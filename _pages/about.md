@@ -28,7 +28,7 @@ Generally, I enjoy working on projects which have my independent thought and con
 
 On the fun side, I am a passionate musician actively composing original music that finds the sweet spot between Indian Classical Ragas and Western Orchestral Soundscape. I also produce music and play 5 instruments as well.  
 
-🎹 Read more to know about my music here - [Personal Tab](https://katreparitosh.github.io/personal/)  
+🎹 Know more about my music here - [Personal Tab](https://katreparitosh.github.io/personal/)  
 📚 Compiled list of [Resources](https://katreparitosh.github.io/resources/)  
 </div>
 
