@@ -12,7 +12,7 @@ I generally spend time a lot of time searching for relevant resources to broaden
 
 <span style = "font-size:0.90em"> *Note - Please be mindful that most of the times I use these resources as quick references. Also, resources could be Books, Online PDFs, Research Papers, Blogs, Medium Articles, Reddit Threads or even Quora Answers. I'll try to share as much as possible!*</span>
 
-## Books
+## Good Books
 
 - [The Language Instinct by Steven Pinker](https://en.wikipedia.org/wiki/The_Language_Instinct)<br>
   Read Kaustubh Dhole's [summary blog](https://kaustubhdhole.wordpress.com/2020/11/10/discussing-the-language-instinct-nlp-researcher/) on this book.
@@ -27,7 +27,7 @@ I generally spend time a lot of time searching for relevant resources to broaden
 - [NLP: A Paninian Perspective by Akshar Bharat, et al.](https://cdn.iiit.ac.in/cdn/ltrc.iiit.ac.in/downloads/nlpbook/nlp-panini.pdf)<br>
   Provides a [Paninian](https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini) perspective of NLP on Indian Languages. 
 
-## Blogs
+## Good Blogs
 
 - [Pratik Bhavsar](https://www.pratik.ai/)  
   Great blogs on NLP, ML and Data Science in general. He also runs a Data Science Slack community [maxpool.club](http://maxpool.club/) that holds some great discussions!
@@ -41,8 +41,17 @@ I generally spend time a lot of time searching for relevant resources to broaden
   His blogs explain deep basics of Python programming and ML.
 - [Ajit Rajasekharan](https://ajitrajasekharan.medium.com/)  
   Super blogs on Deep Learning, BERT models, and Embeddings.
-  
-## Research Papers
+- [Sebastian Ruder](https://ruder.io/)  
+  Frequently blogs on Computational Linguistics, Transfer Learning
+- [Chip Huyen](https://huyenchip.com/)    
+  Elaborate blogs on best engineering practices for ML in Production.
+- [Shashank Prasanna](https://medium.com/@shashankprasanna)  
+  Deeply informative medium articles regarding AWS GPU & Cloud Computing.
+
+## Good Reads
+
+- [Why You Should Do NLP Beyond English by Sebastian Ruder](https://ruder.io/nlp-beyond-english/)
+  Outlines how NLP ≠ English only, but should be studied for all 7000+ languages spoken around the world.
 
 
   
