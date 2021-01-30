@@ -50,7 +50,7 @@ I generally spend time a lot of time searching for relevant resources to broaden
 
 ## Good Reads
 
-- [Why You Should Do NLP Beyond English by Sebastian Ruder](https://ruder.io/nlp-beyond-english/)
+- [Why You Should Do NLP Beyond English by Sebastian Ruder](https://ruder.io/nlp-beyond-english/)  
   Outlines how NLP ≠ English only, but should be studied for all 7000+ languages spoken around the world.
 
 
