@@ -8,9 +8,9 @@ author_profile: true
 ---
 # <center>RESOURCES</center>
 
-I generally spend time a lot of time searching for relevant resources to broaden my knowledge and learn new things. Hence, as a habit, I always pool the links in an excel sheet to keep the assortment handy. It's always good to have the resources around and refer the stuff whenever required. Thought of listing the material that I strongly feel is extremely useful and though-provoking. Hope these lists are of help!
+I generally spend time a lot of time searching for relevant resources to broaden my knowledge and learn new things. Hence, as a habit, I always pool the links in an excel sheet to keep the assortment handy. It's always good to have the resources around and quickly refer the stuff whenever required. Thought of listing down some material that I keep a track of and which I felt was extremely useful.
 
-<span style = "font-size:0.90em"> *Note - Please be mindful that most of the times I use these resources as quick references. Also, resources could be Books, Online PDFs, Research Papers, Blogs, Medium Articles, Reddit Threads or even Quora Answers. I'll try to share as much as possible!*</span>
+<span style = "font-size:0.90em"> *Note - Resources could be Books, Online PDFs, Research Papers, Blogs, Medium Articles, Reddit Threads or even Quora Answers. I'll try to share as much as possible!*</span>
 
 ## Good Books
 
