@@ -53,6 +53,6 @@ I generally spend time a lot of time searching for relevant resources to broaden
 - [Why You Should Do NLP Beyond English by Sebastian Ruder](https://ruder.io/nlp-beyond-english/)  
   Outlines how NLP ≠ English only, but should be studied for all 7000+ languages spoken around the world.
 - [Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo](https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo)  
-  This is a grammatically correct sentence in English. "Buffalo" as Proper Noun, Verb and Common Noun. Read [this discussion](https://www.quora.com/Is-Buffalo-buffalo-Buffalo- buffalo-buffalo-buffalo-Buffalo-buffalo-a-correct-sentence).
+  This is a grammatically correct sentence in English where the word "Buffalo" has different semantic meanings as Proper Noun, Verb and Common Noun.
 
   
