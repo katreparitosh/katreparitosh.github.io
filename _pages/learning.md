@@ -47,6 +47,8 @@ I generally spend time a lot of time searching for relevant resources to broaden
   Elaborate blogs on best engineering practices for ML in Production.
 - [Shashank Prasanna](https://medium.com/@shashankprasanna)  
   Deeply informative medium articles regarding AWS GPU & Cloud Computing.
+- [Amit Chaudhary](https://amitness.com/)  
+  Explains ML concepts with clean, intuitive visual diagrams.
 
 ## Good Reads
 
