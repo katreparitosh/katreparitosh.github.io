@@ -61,3 +61,6 @@ Thought of listing down some material that I keep a track of and which I felt wa
 - [Tokenizers: How machines read](https://blog.floydhub.com/tokenization-nlp/)  
   A detailed blog on how tokenizers work.   
   
+<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkatreparitosh.github.io%2Fresources%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=counter&edge_flat=false)](https://hits.seeyoufarm.com)
+  
