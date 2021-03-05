@@ -8,9 +8,9 @@ author_profile: true
 ---
 # <center>RESOURCES</center>
 
-I generally spend time a lot of time searching for relevant resources to broaden my knowledge and learn new things. Hence, as a habit, I always pool the links in an excel sheet to keep the assortment handy. It's always good to have the resources around and quickly refer the stuff whenever required. Thought of listing down some material that I keep a track of and which I felt was extremely useful.
+I generally spend time a lot of time searching for relevant resources to broaden my knowledge and learn new things. Hence, as a habit, I always pool the links in an excel sheet to keep the assortment handy. It's always good to have the resources around to quickly read important concepts and troubleshoot problems.  
 
-<span style = "font-size:0.90em"> *Note - Resources could be Books, Online PDFs, Research Papers, Blogs, Medium Articles, Reddit Threads or even Quora Answers. I'll try to share as much as possible!*</span>
+Thought of listing down some material that I keep a track of and which I felt was extremely useful :)
 
 ## Good Books
 
@@ -25,7 +25,9 @@ I generally spend time a lot of time searching for relevant resources to broaden
 - [Interpretable Machine Learning by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)<br>
   Great read to understand Machine Learning Interpretability or Explainable AI
 - [NLP: A Paninian Perspective by Akshar Bharat, et al.](https://cdn.iiit.ac.in/cdn/ltrc.iiit.ac.in/downloads/nlpbook/nlp-panini.pdf)<br>
-  Provides a [Paninian](https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini) perspective of NLP on Indian Languages. 
+  Provides a [Paninian](https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini) perspective of NLP on Indian Languages.  
+- [Linguistics for the Age of AI](https://direct.mit.edu/books/book/5042/Linguistics-for-the-Age-of-AI) by Marjorie McShane and Sergei Nirenburg    
+  Extremely rich and detailed description around Natural Language Understanding in today's age. 
 
 ## Good Blogs
 
@@ -56,5 +58,6 @@ I generally spend time a lot of time searching for relevant resources to broaden
   Outlines how NLP ≠ English only, but should be studied for all 7000+ languages spoken around the world.
 - [Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo](https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo)  
   This is a grammatically correct sentence in English where the word "Buffalo" has different semantic meanings as Proper Noun, Verb and Common Noun.
-
+- [Tokenizers: How machines read](https://blog.floydhub.com/tokenization-nlp/)  
+  A detailed blog on how tokenizers work.   
   
