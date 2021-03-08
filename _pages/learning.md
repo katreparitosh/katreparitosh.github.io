@@ -27,7 +27,9 @@ Thought of listing down some material that I keep a track of and which I felt wa
 - [NLP: A Paninian Perspective by Akshar Bharat, et al.](https://cdn.iiit.ac.in/cdn/ltrc.iiit.ac.in/downloads/nlpbook/nlp-panini.pdf)<br>
   Provides a [Paninian](https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini) perspective of NLP on Indian Languages.  
 - [Linguistics for the Age of AI](https://direct.mit.edu/books/book/5042/Linguistics-for-the-Age-of-AI) by Marjorie McShane and Sergei Nirenburg    
-  Extremely rich and detailed description around Natural Language Understanding in today's age. 
+  Extremely rich and detailed description around Natural Language Understanding in today's age.  
+- [The Mayfield Handbook of Technical & Scientific Writing](http://www.mit.edu/course/21/21.guide/toc.htm) by Leslie C. Perelman, et al.  
+  A comprehensive advice on writing scientific / technical documents.
 
 ## Good Blogs
 
@@ -50,7 +52,7 @@ Thought of listing down some material that I keep a track of and which I felt wa
 - [Shashank Prasanna](https://medium.com/@shashankprasanna)  
   Deeply informative medium articles regarding AWS GPU & Cloud Computing.
 - [Amit Chaudhary](https://amitness.com/)  
-  Explains ML concepts with clean, intuitive visual diagrams.
+  Explains ML concepts with clean, intuitive visual diagrams.  
 
 ## Good Reads
 
@@ -59,7 +61,8 @@ Thought of listing down some material that I keep a track of and which I felt wa
 - [Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo](https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo)  
   This is a grammatically correct sentence in English where the word "Buffalo" has different semantic meanings as Proper Noun, Verb and Common Noun.
 - [Tokenizers: How machines read](https://blog.floydhub.com/tokenization-nlp/)  
-  A detailed blog on how tokenizers work.   
+  A detailed blog on how tokenizers work.  
+- [What is the No Free Lunch Theorem?](https://analyticsindiamag.com/what-are-the-no-free-lunch-theorems-in-data-science/)
   
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkatreparitosh.github.io%2Fresources%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=counter&edge_flat=false)](https://hits.seeyoufarm.com)
