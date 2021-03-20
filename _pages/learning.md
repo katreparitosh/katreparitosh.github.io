@@ -31,7 +31,7 @@ Thought of listing down some material that I keep a track of and which I felt wa
 - [The Mayfield Handbook of Technical & Scientific Writing](http://www.mit.edu/course/21/21.guide/toc.htm) by Leslie C. Perelman, et al.  
   A comprehensive advice on writing scientific / technical documents.
 
-## Good Blogs
+## Good Bloggers
 
 - [Pratik Bhavsar](https://www.pratik.ai/)  
   Great blogs on NLP, ML and Data Science in general. He also runs a Data Science Slack community [maxpool.club](http://maxpool.club/) that holds some great discussions!
@@ -53,7 +53,9 @@ Thought of listing down some material that I keep a track of and which I felt wa
   Deeply informative medium articles regarding AWS GPU & Cloud Computing.
 - [Amit Chaudhary](https://amitness.com/)  
   Explains ML concepts with clean, intuitive visual diagrams.  
-
+- [Tim Dettmers](https://timdettmers.com/)  
+  Exhaustive blogs on inner workings of GPU, neuroscience and hardware-optimization. Check [this](http://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/).
+  
 ## Good Reads
 
 - [Why You Should Do NLP Beyond English by Sebastian Ruder](https://ruder.io/nlp-beyond-english/)  
@@ -63,7 +65,9 @@ Thought of listing down some material that I keep a track of and which I felt wa
 - [Tokenizers: How machines read](https://blog.floydhub.com/tokenization-nlp/)  
   A detailed blog on how tokenizers work.  
 - [What is the No Free Lunch Theorem?](https://analyticsindiamag.com/what-are-the-no-free-lunch-theorems-in-data-science/)
-  
+- [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](http://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/)
+- [Choosing the right GPU for deep learning on AWS](https://towardsdatascience.com/choosing-the-right-gpu-for-deep-learning-on-aws-d69c157d8c86)
+
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkatreparitosh.github.io%2Fresources%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=counter&edge_flat=false)](https://hits.seeyoufarm.com)
   
