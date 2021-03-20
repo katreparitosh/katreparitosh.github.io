@@ -65,9 +65,10 @@ Thought of listing down some material that I keep a track of and which I felt wa
 - [Tokenizers: How machines read](https://blog.floydhub.com/tokenization-nlp/)  
   A detailed blog on how tokenizers work.  
 - [What is the No Free Lunch Theorem?](https://analyticsindiamag.com/what-are-the-no-free-lunch-theorems-in-data-science/)
-- [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](http://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/)
+- [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](http://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/)  
+  Provides different levels of in-depth understanding on how GPUs and Tensor Core work.
 - [Choosing the right GPU for deep learning on AWS](https://towardsdatascience.com/choosing-the-right-gpu-for-deep-learning-on-aws-d69c157d8c86)
+  Advice on choosing GPU instances on AWS.   
 
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkatreparitosh.github.io%2Fresources%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=counter&edge_flat=false)](https://hits.seeyoufarm.com)
-  
