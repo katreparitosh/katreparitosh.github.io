@@ -66,7 +66,7 @@ Thought of listing down some material that I keep a track of and which I felt wa
 - [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](http://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/). Provides different levels of in-depth understanding on how GPUs and Tensor Core work.
 - [Choosing the right GPU for deep learning on AWS](https://towardsdatascience.com/choosing-the-right-gpu-for-deep-learning-on-aws-d69c157d8c86). Advice on choosing GPU instances on AWS.
 - [BERT Explained – A list of Frequently Asked Questions by Yashu Seth](https://yashuseth.blog/2019/06/12/bert-explained-faqs-understand-bert-working/). A concise blog summarizing the important aspects related to BERT.   
-- [Are Chess Discussions Racist? An Adversarial Hate Speech Data Set by Ashiqur R. KhudaBukhsh, et al.](https://arxiv.org/pdf/2011.10280.pdf).  
+- [Are Chess Discussions Racist? An Adversarial Hate Speech Data Set](https://arxiv.org/pdf/2011.10280.pdf) by Ashiqur R. KhudaBukhsh, et al.  
 
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkatreparitosh.github.io%2Fresources%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=counter&edge_flat=false)](https://hits.seeyoufarm.com)
