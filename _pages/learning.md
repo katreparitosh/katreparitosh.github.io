@@ -56,7 +56,7 @@ Thought of listing down some material that I keep a track of and which I felt wa
 - [Tim Dettmers](https://timdettmers.com/)  
   Exhaustive blogs on inner workings of GPU, neuroscience and hardware-optimization. Check [this](http://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/).
   
-## Good Reads
+## Good Reads *(blogs, articles, papers..)
 
 - [Why You Should Do NLP Beyond English by Sebastian Ruder](https://ruder.io/nlp-beyond-english/). Outlines how NLP ≠ English only, but should be studied for all 7000+ languages spoken around the world.
 - [Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo](https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo). This is a grammatically correct sentence in English where the word "Buffalo" has different semantic meanings as Proper Noun, Verb and Common Noun.
@@ -64,7 +64,9 @@ Thought of listing down some material that I keep a track of and which I felt wa
 - [Why are GPUs well-suited to deep learning? - Quora](https://www.quora.com/Why-are-GPUs-well-suited-to-deep-learning/answer/Tim-Dettmers-1). High-level explanation by Tim Detters on why GPU are so fast and effective.     
 - [What is the No Free Lunch Theorem?](https://analyticsindiamag.com/what-are-the-no-free-lunch-theorems-in-data-science/)
 - [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](http://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/). Provides different levels of in-depth understanding on how GPUs and Tensor Core work.
-- [Choosing the right GPU for deep learning on AWS](https://towardsdatascience.com/choosing-the-right-gpu-for-deep-learning-on-aws-d69c157d8c86). Advice on choosing GPU instances on AWS.   
+- [Choosing the right GPU for deep learning on AWS](https://towardsdatascience.com/choosing-the-right-gpu-for-deep-learning-on-aws-d69c157d8c86). Advice on choosing GPU instances on AWS.
+- [BERT Explained – A list of Frequently Asked Questions by Yashu Seth](https://yashuseth.blog/2019/06/12/bert-explained-faqs-understand-bert-working/). A concise blog summarizing the important aspects related to BERT.   
+- [Are Chess Discussions Racist? An Adversarial Hate Speech Data Set by Ashiqur R. KhudaBukhsh, et al.](https://arxiv.org/pdf/2011.10280.pdf).  
 
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkatreparitosh.github.io%2Fresources%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=counter&edge_flat=false)](https://hits.seeyoufarm.com)
