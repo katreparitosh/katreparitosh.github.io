@@ -6,8 +6,7 @@ header:
   overlay_filter: 0.3
 author_profile: true
 ---
-
-Research Projects and Experiments
+# <center>PROJECTS</center>
   
 - [[GitHub](https://github.com/katreparitosh/Multi-Dimentional-Data-Analytics-of-Road-Accidents-in-India)] Multi-dimensional Analytics Project on Road Accidents of India
 - [[GitHub](https://github.com/katreparitosh/Discourse-Analytics-of-Political-Speech-Transcripts)] Discourse Analytics of Political Speech Transcripts using NLP
