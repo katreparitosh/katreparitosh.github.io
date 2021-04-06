@@ -6,9 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+author                   : "katreparitosh"
+logo                     : "android-chrome-512x512.png"
 locale                   : "en-US"
 title                    : "Profile of Paritosh Katre"
 title_separator          : "-"
+tagline                  : "Paritosh Katre's Personal Site"
 name                     : &name "Paritosh Katre"
 description              : &description "Paritosh's Personal Website"
 url                      : https://katreparitosh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
