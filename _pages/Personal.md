@@ -10,7 +10,7 @@ author_profile: true
 Alongside research and academics, I passionately pursue a few hobbies.
 <br>
 
-<b> Music </b>
+<ins><b>Music</b></ins>
 
 I am a passionate musician. For the last 5 years, I have been composing and producing original music that blends Indian Classical Ragas and Western Chord soundscape. 
 <a href="https://sites.google.com/view/geetdnyaneshwari"> Geet Dnyaneshwari : Rendering of divine melody quietly present in Dnyaneshwari</a>, a novel experimental musical project, 
@@ -24,7 +24,7 @@ In May 2019, our intitiative was covered by a leading national newspaper, Sakal,
 
 <img src = "/images/Sakal_Combine.jpg" width="700" height="700" />
 
-<b> Birding and Photography </b>
+<ins><b>Birding and Photography</b></ins>
 
 When I was 10 years old, I developed a deep interest in <a href = "https://en.wikipedia.org/wiki/Ornithology"> Ornithology </a>, Bird-watching and Photography. As a school-going kid, I would regularly go out on weekends to <b><i>bird</i></b> with my friends, come home, edit the photographs on Adobe Photoshop, and upload on Facebook. This was a ritual until high-school, but now, birding and nature-walks have become more personal and relaxing ventures :)
 <br>
