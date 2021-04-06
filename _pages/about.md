@@ -14,7 +14,7 @@ redirect_from:
 
 <p align="justify">
   
-👋 Hi! I am Paritosh. 
+👋 Hi! I am Paritosh.<br><br> 
 
 I recently finished my undergrad in Computer Science from <a href="http://www.viit.ac.in/">Vishwakarma Institute of Information Technology (VIIT)</a>.<br><br> 
 
@@ -26,8 +26,10 @@ In 2019, I interned at the Applied AI Group of <a href = "https://www.cdac.in/">
 
 Generally, I enjoy working on projects which have my independent thought and concept behind it. It is challenging, but I believe it's an essential growth skill.<br><br>
 
-On the fun side, I am a passionate musician actively composing original music that finds the sweet spot between Indian Classical Ragas and Western Orchestral Soundscape. I also produce music and play 5 instruments as well.<br><br>     
+On the fun side, I am a passionate musician actively composing original music that finds the sweet spot between Indian Classical Ragas and Western Orchestral Soundscape. I also produce music and play 5 instruments as well.<br><br>
 
+📫 Email: [katreparitosh@gmail.com](katreparitosh@gmail.com)<br>
+🔗 Links: [[LinkedIn](https://www.linkedin.com/in/paritoshkatre/)] [[GitHub](https://github.com/katreparitosh)] [[Google Scholar (https://scholar.google.com/citations?user=UsJddC0AAAAJ)]<br>
 📚 <a href = "https://katreparitosh.github.io/resources/">Resources</a> 👈 A compiled list of resources.<br>
 🎹 <a href = "https://katreparitosh.github.io/personal/">Personal</a>   👈 Know more about my music here.<br>  
 </p>
@@ -35,5 +37,3 @@ On the fun side, I am a passionate musician actively composing original music th
 <br><br>
 <img src = "/images/IEEE Talk.jpg">
 <i>2019 IEEE 9th IACC, Tiruchirappalli<i>
-
-
