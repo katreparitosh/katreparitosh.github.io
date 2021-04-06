@@ -36,4 +36,4 @@ On the fun side, I am a passionate musician actively composing original music th
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkatreparitosh.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=counter&edge_flat=false)](https://hits.seeyoufarm.com)
 <br><br>
 <img src = "/images/IEEE Talk.jpg">
-<i>2019 IEEE 9th IACC, Tiruchirappalli<i>
+<center><i>2019 IEEE 9th IACC, Tiruchirappalli<i></center>
