@@ -14,7 +14,7 @@ Thought of listing down some material that I keep a track of and which I felt wa
 
 - [Good Reads](#good-reads)
 - [Good Books](#good-books)
-- [Good Bloggers](#good-blogs)
+- [Good Blogs](#good-blogs)
 
 ## Good Reads
 
@@ -49,7 +49,7 @@ Thought of listing down some material that I keep a track of and which I felt wa
 - [The Mayfield Handbook of Technical & Scientific Writing](http://www.mit.edu/course/21/21.guide/toc.htm) by Leslie C. Perelman, et al.  
   A comprehensive advice on writing scientific / technical documents.
 
-## Good Bloggers
+## Good Blogs
 
 - [Pratik Bhavsar](https://www.pratik.ai/)  
   Great blogs on NLP, ML and Data Science in general. He also runs a Data Science Slack community [maxpool.club](http://maxpool.club/) that holds some great discussions!
