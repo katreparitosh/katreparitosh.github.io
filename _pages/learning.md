@@ -70,7 +70,7 @@ Thought of listing down some material that I keep a track of and which I felt wa
 - [Shashank Prasanna](https://medium.com/@shashankprasanna)  
   Deeply informative medium articles regarding AWS GPU & Cloud Computing.
 - [Amit Chaudhary](https://amitness.com/)  
-  Explains ML concepts with clean, intuitive visual diagrams.  
+  Explains ML concepts with clean, intuitive visual diagrams. [[Machine Learning Toolbox](https://amitness.com/toolbox/)] [[Resources by Amit](https://github.com/amitness/learning)]  
 - [Tim Dettmers](https://timdettmers.com/)  
   Exhaustive blogs on inner workings of GPU, neuroscience and hardware-optimization. [[1](http://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/)].  
 - [Martin Thoma](https://martin-thoma.com/categories.html)   
