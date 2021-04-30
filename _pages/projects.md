@@ -1,5 +1,5 @@
 ---
-title: "Research Projects"
+title: "Projects"
 permalink: /projects/
 header:
   overlay_image: header_1.jpg
