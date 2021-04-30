@@ -16,7 +16,7 @@ redirect_from:
   
 👋 Hi! I am Paritosh.<br><br> 
 
-Currently, I am remotely working as a NLP Lead on end-to-end research, design, build, development, and deployment of NLP Systems for <a href = "http://citispotter.com/"> Citispotter Limited</a>, Cambridge, UK. Citispotter is a UK-based tech-startup that provides AI-driven technologies for intelligent content analysis to optimize emotional engagement, identify harmful signals, and assess content credibility.<br><br> 
+Currently, I am remotely working as a NLP Lead on end-to-end research, design, development, and deployment of NLP Systems for <a href = "http://citispotter.com/"> Citispotter Limited</a>, Cambridge, UK. Citispotter is a UK-based tech-startup that provides AI-driven technologies for intelligent content analysis to optimize emotional engagement, identify harmful signals, and assess content credibility.<br><br> 
 
 I am interested in conducting research at the intersection of Applied Natural Language Processing (NLP), Machine Learning (ML), MLOPs and AI-driven Products.<br><br>
 
