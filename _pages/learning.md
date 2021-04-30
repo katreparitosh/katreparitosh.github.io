@@ -27,7 +27,7 @@ Thought of listing down some material that I keep a track of and which I felt wa
 - [Choosing the right GPU for deep learning on AWS](https://towardsdatascience.com/choosing-the-right-gpu-for-deep-learning-on-aws-d69c157d8c86). Advice on choosing GPU instances on AWS.
 - [BERT Explained – A list of Frequently Asked Questions by Yashu Seth](https://yashuseth.blog/2019/06/12/bert-explained-faqs-understand-bert-working/). A concise blog summarizing the important aspects related to BERT.   
 - [Are Chess Discussions Racist? An Adversarial Hate Speech Data Set](https://arxiv.org/pdf/2011.10280.pdf) by Ashiqur R. KhudaBukhsh, et al.  
-- Quick start guides to design [RESTful API](https://restfulapi.net/) - [[1](http://blog.luisrei.com/articles/rest.html)] [[2](http://blog.luisrei.com/articles/flaskrest.html)] [[3](https://steveklabnik.com/writing/nobody-understands-rest-or-http)] [[4](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)] [[5](https://martin-thoma.com/rest/)]  
+- Quick start guides to design [RESTful API](https://restfulapi.net/) - [[1](http://blog.luisrei.com/articles/rest.html)] [[2](http://blog.luisrei.com/articles/flaskrest.html)] [[3](https://steveklabnik.com/writing/nobody-understands-rest-or-http)] [[4](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)] [[5](https://martin-thoma.com/rest/)] [[GET/POST/PUT](https://stackoverflow.com/a/26717908/10248043)] [[WSGI](https://stackoverflow.com/a/56267526/10248043)]  
 - References blogs to understand JSON : JavaScript Object Notation - [[1](https://restfulapi.net/introduction-to-json/)] [[2](http://json-schema.org/understanding-json-schema/index.html#)]
 
 ## Good Books
@@ -76,6 +76,5 @@ Thought of listing down some material that I keep a track of and which I felt wa
 - [Martin Thoma](https://martin-thoma.com/categories.html)   
   Writes short blogs on ML, Efficient Coding, Web.  
   
-
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkatreparitosh.github.io%2Fresources%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=counter&edge_flat=false)](https://hits.seeyoufarm.com)
