@@ -18,6 +18,7 @@ Thought of listing down some material that I keep a track of and which I felt wa
 
 ## Good Reads
 
+- [Losing languages, losing worlds by CNN Interactives](https://edition.cnn.com/interactive/2021/04/us/losing-languages/). Audio interactive news report on why language is more central to human survival than just mere communication.  
 - [Why You Should Do NLP Beyond English by Sebastian Ruder](https://ruder.io/nlp-beyond-english/). Outlines how NLP ≠ English only, but should be studied for all 7000+ languages spoken around the world.
 - [Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo](https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo). This is a grammatically correct sentence in English where the word "Buffalo" has different semantic meanings as Proper Noun, Verb and Common Noun.
 - [Tokenizers: How machines read](https://blog.floydhub.com/tokenization-nlp/). A detailed blog on how tokenizers work.
