@@ -18,6 +18,7 @@ Thought of listing down some material that I keep a track of and which I felt wa
 
 ## Good Reads
 
+- [Diversity in AI is not your problem, it’s hersDiversity in AI is not your problem, it’s hers](https://medium.com/@robert.munro/bias-in-ai-3ea569f79d6a). Talks about the "hers" VS "his" prevailing pronoun bias in many language technologies.  
 - [Losing languages, losing worlds by CNN Interactives](https://edition.cnn.com/interactive/2021/04/us/losing-languages/). Audio interactive news report on why language is more central to human survival than just mere communication.  
 - [Why You Should Do NLP Beyond English by Sebastian Ruder](https://ruder.io/nlp-beyond-english/). Outlines how NLP ≠ English only, but should be studied for all 7000+ languages spoken around the world.
 - [Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo](https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo). This is a grammatically correct sentence in English where the word "Buffalo" has different semantic meanings as Proper Noun, Verb and Common Noun.
@@ -76,6 +77,8 @@ Thought of listing down some material that I keep a track of and which I felt wa
   Exhaustive blogs on inner workings of GPU, neuroscience and hardware-optimization. [[1](http://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/)].  
 - [Martin Thoma](https://martin-thoma.com/categories.html)   
   Writes short blogs on ML, Efficient Coding, Web.  
+- [Robert (Munro) Monarch](https://medium.com/@robert.munro)  
+  Blogs on depths of Linguistics, ML and Human Intelligence.  
   
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkatreparitosh.github.io%2Fresources%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=counter&edge_flat=false)](https://hits.seeyoufarm.com)
