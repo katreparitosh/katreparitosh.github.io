@@ -18,6 +18,8 @@ Thought of listing down some material that I keep a track of and which I felt wa
 
 ## Good Reads
 
+- [Docker E2E blogs by Prakhar Srivastav](https://docker-curriculum.com/)  
+- [Embedding Projector by Google](https://projector.tensorflow.org/). Interactive word embedding visualizer by Google. It projects high dimensional data through different dimensionality reduction techniques.  
 - [MLOps concepts for busy engineers: Model Serving](https://spell.ml/blog/mlops-concepts-model-serving-X385lREAACcAAGzS). Overview about various model deployment strategies.
 - [Diversity in AI is not your problem, it’s hers](https://medium.com/@robert.munro/bias-in-ai-3ea569f79d6a). Talks about the prevailing "hers" VS "his" pronoun bias in many language technologies.    
 - [Losing languages, losing worlds by CNN Interactives](https://edition.cnn.com/interactive/2021/04/us/losing-languages/). Audio interactive news report on why language is more central to human survival than just mere communication.  
@@ -54,6 +56,7 @@ Thought of listing down some material that I keep a track of and which I felt wa
 
 ## Good Blogs
 
+- [vsupalov](https://vsupalov.com/docker/). Rich blogs on anything related to Docker. [[Docker Learning Roadmap](https://vsupalov.com/docker-learning-roadmap/)]
 - [Pratik Bhavsar](https://www.pratik.ai/)  
   Great blogs on NLP, ML and Data Science in general. He also runs a Data Science Slack community [maxpool.club](http://maxpool.club/) that holds some great discussions!
 - [Chris McCormick](http://mccormickml.com/tutorials/) and [Jay Alammar](http://jalammar.github.io/)  
