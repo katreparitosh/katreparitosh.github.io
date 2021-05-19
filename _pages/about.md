@@ -18,7 +18,7 @@ redirect_from:
 
 Presently, I am remotely working as a NLP Lead on end-to-end research, design, development, and deployment of NLP Systems for <a href = "http://citispotter.com/"> Citispotter Limited</a>, Cambridge, UK. Citispotter is a UK-based tech-startup that provides AI-driven technologies for intelligent content analysis to optimize emotional engagement, identify harmful signals, and assess content credibility.<br><br> 
 
-I am interested in conducting research at the intersection of applied Natural Language Processing (NLP), Linguistics, Machine Learning (ML), MLOPs, and AI-Product Dev.<br><br>
+I'm interested in conducting product-oriented research at the intersection of applied Natural Language Processing (NLP), Linguistics, Machine Learning (ML), MLOPs, and AI-Product Dev.<br><br>
 
 As an undergraduate, I majored in Computer Science from <a href="http://www.viit.ac.in/">Vishwakarma Institute of Information Technology (VIIT)</a> in 2020.<br><br> 
 
