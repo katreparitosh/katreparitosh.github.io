@@ -18,6 +18,7 @@ Thought of listing down some material that I keep a track of and which I felt wa
 
 ## Good Reads
 
+- [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](https://kunststube.net/encoding/)  
 - [Docker E2E blogs by Prakhar Srivastav](https://docker-curriculum.com/)  
 - [Embedding Projector by Google](https://projector.tensorflow.org/). Interactive word embedding visualizer by Google. It projects high dimensional data through different dimensionality reduction techniques.  
 - [MLOps concepts for busy engineers: Model Serving](https://spell.ml/blog/mlops-concepts-model-serving-X385lREAACcAAGzS). Overview about various model deployment strategies.
@@ -83,6 +84,8 @@ Thought of listing down some material that I keep a track of and which I felt wa
   Writes short blogs on ML, Efficient Coding, Web.  
 - [Robert (Munro) Monarch](https://medium.com/@robert.munro)  
   Blogs on depths of Linguistics, ML and Human Intelligence.  
-  
+- Edward Ma [[NLP Progress Tracker](https://github.com/makcedward/nlp)]  
+  Writes short blogs on all aspects of NLP Systems on [[Medium](https://medium.com/@makcedward)]  
+
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkatreparitosh.github.io%2Fresources%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=counter&edge_flat=false)](https://hits.seeyoufarm.com)
