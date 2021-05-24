@@ -18,8 +18,8 @@ Thought of listing down some material that I keep a track of and which I felt wa
 
 ## Good Reads
 
-- [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](https://kunststube.net/encoding/)  
-- [Docker E2E blogs by Prakhar Srivastav](https://docker-curriculum.com/)  
+- [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text.](https://kunststube.net/encoding/) Detailed blog on the vision behind text encoding styles.  
+- [Docker E2E blogs by Prakhar Srivastav](https://docker-curriculum.com/) A topic wise clustering of docker technology.    
 - [Embedding Projector by Google](https://projector.tensorflow.org/). Interactive word embedding visualizer by Google. It projects high dimensional data through different dimensionality reduction techniques.  
 - [MLOps concepts for busy engineers: Model Serving](https://spell.ml/blog/mlops-concepts-model-serving-X385lREAACcAAGzS). Overview about various model deployment strategies.
 - [Diversity in AI is not your problem, it’s hers](https://medium.com/@robert.munro/bias-in-ai-3ea569f79d6a). Talks about the prevailing "hers" VS "his" pronoun bias in many language technologies.    
