@@ -37,3 +37,6 @@ On the fun side, I am also a passionate musician actively composing original mus
 <br><br>
 <img src = "/images/IEEE Talk.jpg">
 <i><center>2019 IEEE 9th IACC, Tiruchirappalli</center></i>
+<br><br>
+
+<a href="https://info.flagcounter.com/MhQm"><img src="https://s01.flagcounter.com/count2/MhQm/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_4/viewers_3/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
