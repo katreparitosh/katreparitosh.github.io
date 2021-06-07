@@ -18,6 +18,7 @@ Thought of listing down some material that I keep a track of and which I felt wa
 
 ## Good Reads
 
+- Interesting Language Rhetorics - ["Mistakes were made"](https://en.wikipedia.org/wiki/Mistakes_were_made), [Non-Apology Apology](https://en.wikipedia.org/wiki/Non-apology_apology), [Weasel Word](https://en.wikipedia.org/wiki/Weasel_word), [Mon-Denail Denail](https://en.wikipedia.org/wiki/Non-denial_denial).  
 - [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text.](https://kunststube.net/encoding/) Detailed blog on the vision behind text encoding styles.  
 - [Docker E2E blogs by Prakhar Srivastav](https://docker-curriculum.com/) A topic wise clustering of docker technology.    
 - [Embedding Projector by Google](https://projector.tensorflow.org/). Interactive word embedding visualizer by Google. It projects high dimensional data through different dimensionality reduction techniques.  
