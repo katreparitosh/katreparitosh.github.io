@@ -14,11 +14,15 @@ redirect_from:
 
 <p align="justify">
   
-👋 Hi! I am Paritosh.<br><br> 
+👋 Hi! I am Paritosh.<br><br>
+  
+Presently, I am pursuing a Masters in Computer Science from <a href = "https://engineering.buffalo.edu/computer-science-engineering.html"> University at Buffalo, New York </a>.<br><br>
+  
+Prior to grad school, I was remotely working as a NLP Lead on end-to-end research, design, development, and deployment of NLP Systems for <a href = "http://citispotter.com/"> Citispotter Limited</a>, Cambridge, UK. I was a part of the early team at the startup which built the beta product receiving global attention and users. My responsibilities ranged right from ideating - conceptualizing - training - evaluating - deploying ML models and various in-house Language Processing utilties. For production scenarios, I worked on EC2, S3, ECR and SageMaker.<br><br>
+  
+This early startup experience tought me a lot of things. I learned the importance of delivery-oriented research and finding the correct spot in product development & buisness objectives.<br><br>
 
-Presently, I am remotely working as a NLP Lead on end-to-end research, design, development, and deployment of NLP Systems for <a href = "http://citispotter.com/"> Citispotter Limited</a>, Cambridge, UK. Citispotter is a UK-based tech-startup that provides AI-driven technologies for intelligent content analysis to optimize emotional engagement, identify harmful signals, and assess content credibility.<br><br> 
-
-I'm interested in conducting product-oriented research at the intersection of applied Natural Language Processing (NLP), Linguistics, Machine Learning (ML), MLOPs, and AI-Product Dev.<br><br>
+I am interested in conducting product-oriented research at the intersection of applied Natural Language Processing (NLP), Linguistics, Machine Learning (ML), MLOPs, and AI-Product Dev.<br><br>
 
 As an undergraduate, I majored in Computer Science from <a href="http://www.viit.ac.in/">Vishwakarma Institute of Information Technology (VIIT)</a> in 2020.<br><br> 
 
