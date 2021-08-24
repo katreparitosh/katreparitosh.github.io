@@ -12,23 +12,23 @@ redirect_from:
 ---
 ## A Little About Me
 
-<p align="justify">
+<p align="justify"/
   
 👋 Hi! I am Paritosh.<br><br>
   
-Presently, I am pursuing a Masters in Computer Science from <a href = "https://engineering.buffalo.edu/computer-science-engineering.html"> University at Buffalo, New York </a>.<br><br>
+Presently, I am pursuing a Master's in Computer Science from <a href = "https://engineering.buffalo.edu/computer-science-engineering.html"> University at Buffalo, New York </a>.<br><br>
   
-Prior to grad school, I was remotely working as a NLP Lead on end-to-end research, design, development, and deployment of NLP Systems for <a href = "http://citispotter.com/"> Citispotter Limited</a>, Cambridge, UK. I was a part of the early team at the startup which built the beta product receiving global attention and users. My responsibilities ranged right from ideating - conceptualizing - training - evaluating - deploying ML models and various in-house Language Processing utilties.<br><br>
+Prior to grad school, I was remotely working as an NLP Lead on end-to-end research, design, development, and deployment of NLP Systems for <a href = "http://citispotter.com/"> Citispotter Limited</a>, Cambridge, UK. I was a part of the early team at the startup which built the beta product receiving global attention and users. My responsibilities ranged right from ideating - conceptualizing - training - evaluating - deploying NLP/ML models and various in-house Language Processing utilities.<br><br>
   
-This early startup experience tought me a lot of things. I learned the importance of delivery-oriented research and finding the correct spot in product development & buisness objectives.<br><br>
+This early startup experience taught me a lot of things. I learned the importance of delivery-oriented research and finding the correct spot in product development & business objectives.<br><br>
 
 Largely, I am interested in product-oriented research at the intersection of applied Natural Language Processing (NLP), Linguistics, Machine Learning (ML), MLOPs, and AI-Product Dev.<br><br>
 
 As an undergraduate, I majored in Computer Science from <a href="http://www.viit.ac.in/">Vishwakarma Institute of Information Technology (VIIT)</a> in 2020.<br><br> 
 
-In 2019, I interned at the Applied AI Group of <a href = "https://www.cdac.in/">Center for Development of Advanced Computing (C-DAC)</a>, Pune as part of my year long final year thesis project. I worked on an AI-NLP task of Event Prediction to predict potential crime/terrorist activities form unstructured textual corpora. The vision was to design a predictive algorithm and build a working prototype to demonstrate a <a href = "https://en.wikipedia.org/wiki/Pre-crime">Pre-crime Tool</a>.<br><br>
+In 2019, I interned at the Applied AI Group of <a href = "https://www.cdac.in/">Center for Development of Advanced Computing (C-DAC)</a>, Pune as part of my year long final year thesis project. I worked on an AI-NLP task of Event Prediction to predict potential crime/terrorist activities from unstructured textual corpora. The vision was to design a predictive algorithm and build a working prototype to demonstrate a <a href = "https://en.wikipedia.org/wiki/Pre-crime">Pre-crime Tool</a>.<br><br>
 
-Generally, I enjoy working on projects which have my independent thought and concept behind it. It is challenging, but I believe it's an essential growth skill.
+Generally, I enjoy working on projects which have my independent thought and concept behind them. It is challenging, but I believe it's an essential growth skill.
 
 On the fun side, I am also a passionate musician actively composing original music that finds the sweet spot between Indian Classical Ragas and Western Orchestral Soundscape. I arrange, produce music, and play 5 instruments as well.<br><br>
 
