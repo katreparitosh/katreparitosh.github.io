@@ -12,7 +12,7 @@ redirect_from:
 ---
 ## A Little About Me
 
-<p align="justify"/
+<p align="justify">
   
 👋 Hi! I am Paritosh.<br><br>
   
