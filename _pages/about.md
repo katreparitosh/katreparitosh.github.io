@@ -19,7 +19,7 @@ redirect_from:
 Presently, I am pursuing a Master's in Computer Science from <a href = "https://engineering.buffalo.edu/computer-science-engineering.html"> University at Buffalo, New York </a>.<br><br>
   
 <img src = "/images/UB_Davis_Hall.jpeg" width="389" height="512">
-<i><center>Department of Computer Science, University at Buffalo</center></i>
+<i>Department of Computer Science, University at Buffalo</i>
 <br><br>
   
 Prior to grad school, I was remotely working as an NLP Lead on end-to-end research, design, development, and deployment of NLP Systems for <a href = "http://citispotter.com/"> Citispotter Limited</a>, Cambridge, UK. I was a part of the early team at the startup which built the beta product receiving global attention and users. My responsibilities ranged right from ideating - conceptualizing - training - evaluating - deploying NLP/ML models and various in-house Language Processing utilities.<br><br>
