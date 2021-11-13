@@ -16,7 +16,9 @@ redirect_from:
   
 👋 Hi! I am Paritosh.<br><br>
 
-Presently, I am pursuing a Master's in Computer Science from <a href = "https://engineering.buffalo.edu/computer-science-engineering.html"> University at Buffalo, New York </a>. Seeking Internship Opportunities for Summer 2022 in NLP/ML Space.<br><br>
+Presently, I am pursuing a Master's in Computer Science from <a href = "https://engineering.buffalo.edu/computer-science-engineering.html"> University at Buffalo, New York </a>.<br><br>
+
+-- Seeking Internship Opportunities for Summer 2022 in NLP/ML Space.-- <br><br>
   
 <img src = "/images/UB_Davis_Hall.jpeg" width="389" height="512"><br>
 <i>Department of Computer Science, University at Buffalo</i>
