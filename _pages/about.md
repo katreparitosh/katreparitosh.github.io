@@ -24,7 +24,7 @@ Presently, I am pursuing a Master's in Computer Science from <a href = "https://
   
 Prior to grad school, I was remotely working as an NLP Lead on end-to-end research, design, development, and deployment of NLP Systems for <a href = "http://citispotter.com/"> Citispotter Limited</a>, Cambridge, UK. I was a part of the early team at the startup which built the beta product receiving global attention and users.<br><br>
   
-I was responsible for training-deploying NLP models for Large-Scale Text Classification tasks, designing NLP algorithms, AWS Cloud Deployments, building workflows for Continuous Retraining (Online Learning) to tackle Data/Concept Drifts, Data Augmentation, and evaluation of NLP/ML solutions for Bias & Fairness, Behavioral - Adversarial Testing, and Linguistic Capabilities.
+I was responsible for training-deploying NLP models for Large-Scale Text Classification tasks, designing NLP algorithms, AWS Cloud Deployments, building workflows for Continuous Retraining (Online Learning) to tackle Data/Concept Drifts, Data Augmentation, and evaluation of NLP/ML solutions for Bias & Fairness, Behavioral - Adversarial Testing, and Linguistic Capabilities.<br><br>
   
 This early startup experience taught me a lot of things. I learned the importance of attacking problems at hand, delivery-oriented research, and finding the correct spot in product development & business objectives.<br><br>
 
