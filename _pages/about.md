@@ -16,19 +16,17 @@ redirect_from:
   
 👋 Hi! I am Paritosh.<br><br>
 
-Presently, I am pursuing a Master's in Computer Science from <a href = "https://engineering.buffalo.edu/computer-science-engineering.html"> University at Buffalo, New York </a>.<br><br>
+Presently, I am pursuing a Master's in Computer Science from <a href = "https://engineering.buffalo.edu/computer-science-engineering.html"> University at Buffalo, New York </a>. Seeking Internship Opportunities for Summer 2022 in NLP/ML Space.<br><br>
   
 <img src = "/images/UB_Davis_Hall.jpeg" width="389" height="512"><br>
 <i>Department of Computer Science, University at Buffalo</i>
 <br><br>
   
-Prior to grad school, I was remotely working as an NLP Lead on end-to-end research, design, development, and deployment of NLP Systems for <a href = "http://citispotter.com/"> Citispotter Limited</a>, Cambridge, UK. I was a part of the early team at the startup which built the beta product receiving global attention and users. My responsibilities ranged right from ideating - conceptualizing - training - evaluating - deploying NLP/ML models and various in-house Language Processing utilities.<br><br>
+Prior to grad school, I was remotely working as an NLP Lead on end-to-end research, design, development, and deployment of NLP Systems for <a href = "http://citispotter.com/"> Citispotter Limited</a>, Cambridge, UK. I was a part of the early team at the startup which built the beta product receiving global attention and users. I was responsible for training-deploying NLP models for Large-Scale Text Classification tasks, designing NLP algorithms, AWS Cloud Deployments, building workflows for Continuous Retraining (Online Learning) to tackle Data/Concept Drifts, Data Augmentation, and evaluation of NLP/ML solutions for Bias & Fairness, Behavioral - Adversarial Testing, and Linguistic Capabilities.
   
-This early startup experience taught me a lot of things. I learned the importance of delivery-oriented research and finding the correct spot in product development & business objectives.<br><br>
+This early startup experience taught me a lot of things. I learned the importance of attacking problems at hand, delivery-oriented research, and finding the correct spot in product development & business objectives.<br><br>
 
-Largely, I am interested in product-oriented research at the intersection of applied Natural Language Processing (NLP), Linguistics, Machine Learning (ML), MLOPs, and AI-Product Dev.<br><br>
-
-As an undergraduate, I majored in Computer Science from <a href="http://www.viit.ac.in/">Vishwakarma Institute of Information Technology (VIIT)</a> in 2020.<br><br> 
+As an undergraduate, I majored in Computer Science from <a href="http://www.viit.ac.in/">Vishwakarma Institute of Information Technology (VIIT)</a> in 2020. It was a very fruitful time in my life as I invested a lot of time participating in cultural events and competitions. I learnt a lot about social connections, maintaining and nurturing people relations.<br><br> 
 
 In 2019, I interned at the Applied AI Group of <a href = "https://www.cdac.in/">Center for Development of Advanced Computing (C-DAC)</a>, Pune as part of my year long final year thesis project. I worked on an AI-NLP task of Event Prediction to predict potential crime/terrorist activities from unstructured textual corpora. The vision was to design a predictive algorithm and build a working prototype to demonstrate a <a href = "https://en.wikipedia.org/wiki/Pre-crime">Pre-crime Tool</a>.<br><br>
 
