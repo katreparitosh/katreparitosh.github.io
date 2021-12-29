@@ -7,6 +7,10 @@ header:
 author_profile: true
 ---
 
+<b>Independent Researcher @ <a href="https://www.xlab-ub.com/home"> X-LAB @ UB</a>, University at Buffalo</b><br>
+<i>(Dec 2021 - Present)</i>
+
+---
 <b>NLP Lead Engineer @ <a href="http://citispotter.com/"> Citispotter Limited</a>, Cambridge, United Kingdom (UK)</b><br>
 <i>(Oct 2020 - July 2020)</i>
 
