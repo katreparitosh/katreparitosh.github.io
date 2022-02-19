@@ -7,7 +7,7 @@ header:
 author_profile: true
 ---
 
-<b>Independent Researcher @ <a href="https://www.xlab-ub.com/home"> X-LAB @ UB</a>, University at Buffalo</b><br>
+<b>Research Assistant @ <a href="https://www.xlab-ub.com/home"> X-LAB @ UB</a>, University at Buffalo</b><br>
 <i>(Dec 2021 - Present)</i>
 
 ---
