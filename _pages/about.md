@@ -11,14 +11,12 @@ redirect_from:
   - /about.html
 ---
 ## A Little About Me
-
+======
 <p align="justify">
   
 👋 Hi! I am Paritosh.<br><br>
 
-Presently, I am pursuing a Master's in Computer Science from <a href = "https://engineering.buffalo.edu/computer-science-engineering.html"> University at Buffalo, New York </a>.<br><br>
-
--- Seeking Full Time Opportunities starting Jan 2023 in NLP/ML Space -- <br><br>
+I am a MS in Computer Science grad student at <a href = "https://engineering.buffalo.edu/computer-science-engineering.html"> University at Buffalo, New York </a>. Currently, I am affiliated with <a href = "https://www.xlab-ub.com/research"> X-LAB @ UB </a> where I am conducting research on the topic of "Science of Science" advised by Prof. <a href = "https://www.xlab-ub.com/home">Jinjun Xiong</a>.<br><br>
   
 <img src = "/images/UB_Davis_Hall.jpeg" width="389" height="512"><br>
 <i>Department of Computer Science, University at Buffalo</i>
