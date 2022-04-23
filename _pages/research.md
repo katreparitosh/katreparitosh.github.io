@@ -24,7 +24,7 @@ I am working on this research advised by Prof. [Jinjun Xiong](https://www.xlab-u
 
 Some of the questions I am trying to answer at present:
 
-* How can we use scientific methods like Network Science, Graph Analytics, Citation Analysis, Scientometrics, and Bibliometrics to study science itself?
+* How can we use scientific methods like Knowledge Graphs, Network Science, Graph Analytics, Citation Analysis, Scientometrics, and Bibliometrics to study science itself?
 * How do we identify the underlying patterns and rules governing the science system?
 * How do we understand & quantify scientific innovation and predict new research directions to advance the scientific enterprise?
 * How do we quantify diversity and interdisciplinary related metrics for articles, authors, and academic institutions in general? 
