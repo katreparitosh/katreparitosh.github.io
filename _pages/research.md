@@ -7,6 +7,7 @@ header:
   overlay_filter: 0.3
 author_profile: true
 ---
+## <center>RESEARCH</center>
 Thanks to a series of relevant research opportunities, I’ve been able to work on a variety of interdisciplinary research topics. 
 This page briefly describes my research experience and interests.
 
@@ -56,9 +57,17 @@ which is an R&D Society operating under the Government of India. My research was
 Some of the questions I tried to examine:
 
 * How do we model unstructured text data as a knowledge graph to predict potential crime/terrorism events?
-* How to extract linguistic markers and pre-event indictors (semantic triples) using NLP tasks like Entity Disambiguation, 
-* Entity Resolution, Dependency Parsing?
+* How to extract linguistic markers and pre-event indictors (semantic triples) using NLP tasks like Entity Disambiguation, Entity Resolution, Dependency Parsing?
 * How do we build a weighted rule-based algorithm for predicting future links between nodes of the knowledge graph?
+
+### New Interests In
+* Co-speech Gesture Analysis from Text Data
+* Analyzing Political Discourse from 3 Levels
+  * What gets delivered? (Speech)
+  * What gets reported? (News Reports)
+  * What gets discussed? (Social Media)
+* Understanding Language of Pain (the language we use when describing feelings of pain)
+
 
 
 
