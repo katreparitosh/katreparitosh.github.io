@@ -42,8 +42,7 @@ Some of the questions I tried to examine:
 
 * How do we use language technologies to trace and identify socio-political issues from political speech transcripts?
 * How do we extract and interpret latent political ideologies, topics/shades from large unstructured corpora? 
-* How can a study like this be made useful for political analysts, political party strategists and the 
-* people to assess multiple political candidates and their political attitude & discourse?
+* How can a study like this be made useful for political analysts, political party strategists and the people to assess multiple political candidates and their political attitude & discourse?
 
 ### Event Prediction from Unstructured Text Data
 
