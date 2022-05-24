@@ -7,28 +7,23 @@ header:
 author_profile: true
 ---
 
+<b>Data Scientist Intern @ <a href="https://www.linkedin.com/company/paypal"> PayPal</a>, San Jose </b><br>
+<i>(May 2022 - Present)</i>
+Manager: [Nimisha Tandon](https://www.linkedin.com/in/nimisha-tandon/), AI/ML Engineering Manager, PayPal<br>
+___
 <b>Research Assistant @ <a href="https://www.xlab-ub.com/home"> X-LAB @ UB</a>, University at Buffalo</b><br>
 <i>(Dec 2021 - Present)</i>
-
----
+Advisor: [Dr. Jinjun Xiong](https://www.xlab-ub.com/home), Empire Innovation Professor, University at Buffalo <br>
+___
 <b>NLP Lead Engineer @ <a href="http://citispotter.com/"> Citispotter Limited</a>, Cambridge, United Kingdom (UK)</b><br>
 <i>(Oct 2020 - July 2020)</i>
-
----
-  
+Manager: [Pallav Sethiya](https://www.linkedin.com/in/pallavsethiya/), CEO & Co-Founder, Citispotter Limited <br>
+___
 <b>NLP Intern @ <a href="http://citispotter.com/"> Citispotter Limited</a>, Cambridge, United Kingdom (UK)</b><br>
 <i>(June 2020 - Sept 2020)</i><br>
-Leader: [Pallav Sethiya](https://www.linkedin.com/in/pallavsethiya/), CEO & Co-Founder, Citispotter Limited <br>
-  
----
-  
+Mentor: [Pallav Sethiya](https://www.linkedin.com/in/pallavsethiya/), CEO & Co-Founder, Citispotter Limited <br>
+___
 <b>Research Intern (NLP) @ Applied AI Group of <a href="https://www.cdac.in/">C-DAC</a>, Pune</b><br>
 <i>(April 2019 - May 2020)</i><br>
-  Guide: [Dr. Krishnanjan Bhattacharjee](https://www.linkedin.com/in/dr-krishnanjan-bhattacharjee-b1852141/) and [Prof. Devika Verma](https://www.linkedin.com/in/devikaverma/)
-  - Developed a **‘Pre-crime Tool’** that predicts potential criminal activities from English Unstructured Texts using a Rule-based Classical NLP approach. 
-  - Implemented **NER, Co-reference Resolution, and Dependency Parsing** to extract **Relation Triples** and develop a **Knowledge Graph using Neo4j.**
-  - Implemented a **Weighted Sum Model (WSM)** in the prediction module.
-  - **Tech Stack:** Stanford CoreNLP, NeuralCoref, spaCy, Neo4j, Flask, etc. 
-  - Survey paper during the internship is published in Springer. [Link](http://katreparitosh.github.io/publication/springer_ictis_2020)
-  
----
+  Advisor: [Dr. Krishnanjan Bhattacharjee](https://www.linkedin.com/in/dr-krishnanjan-bhattacharjee-b1852141/) and [Prof. Devika Verma](https://www.linkedin.com/in/devikaverma/)
+___
