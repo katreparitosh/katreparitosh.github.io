@@ -9,11 +9,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
-    url: /projects/
+#   - title: "Projects"
+#     url: /projects/
     
-  - title: "CV"
-    url: /cv/
+#   - title: "CV"
+#     url: /cv/
     
   - title: "Personal"
     url: /personal/
