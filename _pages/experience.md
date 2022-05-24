@@ -9,7 +9,7 @@ author_profile: true
 
 <b>Data Scientist Intern</b> @ <a href="https://www.linkedin.com/company/paypal"> PayPal</a>, San Jose <br>
 <i>(May 2022 - Present)</i><br> 
-<small>Manager: [Nimisha Tandon](https://www.linkedin.com/in/nimisha-tandon/), AI/ML Engineering Manager, PayPal<br><small>
+Manager: [Nimisha Tandon](https://www.linkedin.com/in/nimisha-tandon/), AI/ML Engineering Manager, PayPal<br>
 
 ---
 <b>Research Assistant</b> @ <a href="https://www.xlab-ub.com/home"> X-LAB @ UB</a>, University at Buffalo<br>
