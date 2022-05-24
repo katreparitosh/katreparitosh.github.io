@@ -8,17 +8,17 @@ author_profile: true
 ---
 
 <b>Data Scientist Intern</b> @ <a href="https://www.linkedin.com/company/paypal"> PayPal</a>, San Jose <br>
-<i>(May 2022 - Present)</i>
+<i>(May 2022 - Present)</i><br> 
 Manager: [Nimisha Tandon](https://www.linkedin.com/in/nimisha-tandon/), AI/ML Engineering Manager, PayPal<br>
 
 ---
 <b>Research Assistant</b> @ <a href="https://www.xlab-ub.com/home"> X-LAB @ UB</a>, University at Buffalo<br>
-<i>(Dec 2021 - Present)</i>
+<i>(Dec 2021 - Present)</i><br> 
 Advisor: [Dr. Jinjun Xiong](https://www.xlab-ub.com/home), Empire Innovation Professor, University at Buffalo <br>
 
 ---
 <b>NLP Lead Engineer</b> @ <a href="http://citispotter.com/"> Citispotter Limited</a>, Cambridge, United Kingdom (UK)<br>
-<i>(Oct 2020 - July 2020)</i>
+<i>(Oct 2020 - July 2020)</i><br> 
 Manager: [Pallav Sethiya](https://www.linkedin.com/in/pallavsethiya/), CEO & Co-Founder, Citispotter Limited <br>
 
 ---
