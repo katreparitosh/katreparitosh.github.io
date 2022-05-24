@@ -16,8 +16,7 @@ This page briefly describes my research experience and interests.
 [Science of Science](https://en.wikipedia.org/wiki/Science_of_science_policy) is an emerging interdisciplinary research area which aims to 
 understand the overall structure and functioning of science advancement. 
 Although popularly quoted as “Science of Science”, this field falls under the hood of “[Meta-science or Meta-research](https://en.wikipedia.org/wiki/Metascience)”, 
-which further comes under the larger hood of “[Logology](https://en.wikipedia.org/wiki/Logology_(science))”. Logology or Metascience is the use of scientific methods to name a few to 
-understand science activities like research publications, patents, author influence, etc.
+which further comes under the larger hood of “[Logology](https://en.wikipedia.org/wiki/Logology_(science))”. Logology or Metascience is the use of scientific methods to understand science activities like publishing papers, patents, funding impact, author influence, collaborations, etc.
 
 I am working on this research advised by Prof. [Jinjun Xiong](https://www.xlab-ub.com/) in collaboration with 
 [Harish Chandrasekharan](https://www.linkedin.com/in/chandrasekaranharish/) at X-LAB @ UB.
