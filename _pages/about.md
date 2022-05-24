@@ -19,7 +19,7 @@ redirect_from:
 I am a MS in Computer Science grad student at <a href = "https://engineering.buffalo.edu/computer-science-engineering.html"> University at Buffalo, New York </a>. Currently, I am affiliated with <a href = "https://www.xlab-ub.com/research"> X-LAB @ UB </a> where I am conducting research on the topic of "Science of Science" advised by Prof. <a href = "https://www.xlab-ub.com/home">Jinjun Xiong</a>.<br><br>
   
 <img src = "/images/UB_Davis_Hall.jpeg" width="389" height="512"><br>
-<i>Department of Computer Science, University at Buffalo</i>
+<small><i>Department of Computer Science, University at Buffalo</i></small>
 <br><br>
   
 Prior to grad school, I was remotely working as an NLP Lead on end-to-end research, design, development, and deployment of NLP Systems for <a href = "http://citispotter.com/"> Citispotter Limited</a>, Cambridge, UK. I was a part of the early team at the startup which built the beta product receiving global attention and users.<br><br>
@@ -43,4 +43,4 @@ On the fun side, I am also a passionate musician actively composing original mus
 </p>
 <br>
 <img src = "/images/IEEE Talk.jpg">
-<i><center>2019 IEEE 9th IACC, Tiruchirappalli</center></i>
+<small><i><center>2019 IEEE 9th IACC, Tiruchirappalli</center></i></small>
