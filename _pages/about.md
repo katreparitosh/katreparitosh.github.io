@@ -16,7 +16,7 @@ redirect_from:
   
 👋 Hi! I am Paritosh.<br><br>
   
-I am a Data Scientist/NLP Scientist skilled in conducting R&D at the intersection of Natural Language Processing (NLP), Applied ML, Language Science, and Computational Linguistics.<br><br>
+I am a NLP Scientist/Researcher skilled in conducting R&D at the intersection of Natural Language Processing (NLP), Applied ML, Language Science, and Computational Linguistics.<br><br>
   
 Currently, I am working as a Data Scientist at <a href = "https://en.wikipedia.org/wiki/PayPal"> PayPal Inc. </a> with the Applied Science team supporting the core AI/NLP capabilities of the Customer Success Platform (CSP).<br><br>
 
