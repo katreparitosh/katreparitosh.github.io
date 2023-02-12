@@ -16,11 +16,11 @@ redirect_from:
   
 👋 Hi! I am Paritosh.<br><br>
   
-I am a Data Scientist/NLP Scientist skilled in conducting R&D at the intersection of Natural Language Processing (NLP), Applied ML, Language Science, and Computational Linguistics. 
+I am a Data Scientist/NLP Scientist skilled in conducting R&D at the intersection of Natural Language Processing (NLP), Applied ML, Language Science, and Computational Linguistics.<br><br>
   
-Currently, I am working as a Data Scientist at <a href = "https://en.wikipedia.org/wiki/PayPal"> PayPal Inc. </a> with the Applied Science team supporting the core AI/NLP capabilities of the Customer Success Platform (CSP).
+Currently, I am working as a Data Scientist at <a href = "https://en.wikipedia.org/wiki/PayPal"> PayPal Inc. </a> with the Applied Science team supporting the core AI/NLP capabilities of the Customer Success Platform (CSP).<br><br>
 
-In Dec 2022, I graduated with an MS in Computer Science from the <a href = "https://engineering.buffalo.edu/computer-science-engineering.html"> University at Buffalo, New York </a>. During that period, I was affiliated with <a href = "https://www.xlab-ub.com/research"> X-LAB @ UB </a> where I conducted research on the topic of "Science of Science" advised by <a href = "https://www.xlab-ub.com/research"> Prof. Jinjun Xiong</a>. You can read more about this work <a href = "https://katreparitosh.github.io/research/">here</a>.
+In Dec 2022, I graduated with an MS in Computer Science from the <a href = "https://engineering.buffalo.edu/computer-science-engineering.html"> University at Buffalo, New York </a>. During that period, I was affiliated with <a href = "https://www.xlab-ub.com/research"> X-LAB @ UB </a> where I conducted research on the topic of "Science of Science" advised by <a href = "https://www.xlab-ub.com/research"> Prof. Jinjun Xiong</a>. You can read more about this work <a href = "https://katreparitosh.github.io/research/">here</a>.<br><br>
   
 <img src = "/images/UB_Davis_Hall.jpeg" width="389" height="512"><br>
 <small><i>Department of Computer Science, University at Buffalo</i></small>
@@ -34,7 +34,7 @@ I was responsible for training-deploying NLP models for Large-Scale Text Classif
 
 As an undergraduate, I majored in Computer Science from <a href="http://www.viit.ac.in/">Vishwakarma Institute of Information Technology (VIIT)</a> in 2020. It was a very fruitful time in my life as I invested a lot of time participating in cultural events and competitions. I learnt a lot about building social connections, maintaining and nurturing people relations.<br><br> 
 
-In the year of 2019, I got an opportunity to intern at the Applied AI Group of <a href = "https://www.cdac.in/">Center for Development of Advanced Computing (C-DAC), Pune</a>, as part of my year long final year thesis project. I worked on an AI-NLP task of Event Prediction to predict potential crime/terrorist activities from unstructured textual corpora. The vision was to design a predictive algorithm and build a working prototype to demonstrate a <a href = "https://en.wikipedia.org/wiki/Pre-crime">Pre-crime Tool</a>. Read more about this research <a href = "https://katreparitosh.github.io/research/">here</a>.
+In the year of 2019, I got an opportunity to intern at the Applied AI Group of <a href = "https://www.cdac.in/">Center for Development of Advanced Computing (C-DAC), Pune</a>, as part of my year long final year thesis project. I worked on an AI-NLP task of Event Prediction to predict potential crime/terrorist activities from unstructured textual corpora. The vision was to design a predictive algorithm and build a working prototype to demonstrate a <a href = "https://en.wikipedia.org/wiki/Pre-crime">Pre-crime Tool</a>. Read more about this research <a href = "https://katreparitosh.github.io/research/">here</a>.<br><br>
 
 In parallel, I am also a musician passionately interested in composing music whcih attempts finds a sweet spot between the Indian Classical Raagas and the Western Orchestral Soundscape. I like to arrange, produce music, and learn new instruments.<br><br>
 
