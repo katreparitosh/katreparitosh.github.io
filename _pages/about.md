@@ -22,7 +22,7 @@ Currently, I am working as a Data Scientist at <a href = "https://en.wikipedia.o
 
 In Dec 2022, I graduated with an MS in Computer Science from the <a href = "https://engineering.buffalo.edu/computer-science-engineering.html"> University at Buffalo, New York </a>. During that period, I was affiliated with <a href = "https://www.xlab-ub.com/research"> X-LAB @ UB </a> where I conducted research on the topic of "Science of Science" advised by <a href = "https://www.xlab-ub.com/research"> Prof. Jinjun Xiong</a>. You can read more about this work <a href = "https://katreparitosh.github.io/research/">here</a>.<br><br>
   
-<img src = "/images/UB_Davis_Hall.jpeg" width="389" height="512"><br>
+<img src = "/images/presentation.jpeg" width="389" height="512"><br>
 <small><i>Department of Computer Science, University at Buffalo</i></small>
 <br><br>
   
