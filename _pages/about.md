@@ -22,8 +22,8 @@ Currently, I am working as a Data Scientist at <a href = "https://en.wikipedia.o
 
 In Dec 2022, I graduated with an MS in Computer Science from the <a href = "https://engineering.buffalo.edu/computer-science-engineering.html"> University at Buffalo, New York </a>. During that period, I was affiliated with <a href = "https://www.xlab-ub.com/research"> X-LAB @ UB </a> where I conducted research on the topic of "Science of Science" advised by <a href = "https://www.xlab-ub.com/research"> Prof. Jinjun Xiong</a>. You can read more about this work <a href = "https://katreparitosh.github.io/research/">here</a>.<br><br>
   
-<img src = "/images/presentation.jpeg" width="389" height="512"><br>
-<small><i>Department of Computer Science, University at Buffalo</i></small>
+<img src = "/images/presentation.jpeg" width="1400" height="500"><br>
+<small><i>Presentation @ University at Buffalo</i></small>
 <br><br>
   
 Prior moving to the US, I remotely worked as a NLP Lead Engineer on end-to-end research, design, development, and deployment of NLP Systems for <a href = "http://citispotter.com/"> Citispotter Limited</a>, Cambridge, UK. I was part of the founding team which built the beta product receiving global attention and users in the field of AI-based Content Writing Assistants. This early stage startup experience taught me a lot of things. I majorly learned how to independently think, and solve problems in delivery-oriented research settings.<br><br>
