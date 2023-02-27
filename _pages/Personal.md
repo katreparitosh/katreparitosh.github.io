@@ -24,7 +24,7 @@ I primarily rely on <a href = "https://www.apple.com/in/mac/garageband/">Garageb
 - In May 2019, our initiative was first covered by a leading national newspaper, Sakal, for its front page story! [[eNews](https://www.esakal.com/pune/ovi-dnyanoba-express-raag-189606)] (See below)<br>
 - In Feb 2022, a local news channel reported one of our songs. [[eNews](https://www.youtube.com/watch?v=JYdPyAC_ejA)]
 <center><img src = "/images/Sakal_Combine.jpg" width="500" height="500" /></center>
- 
+<br>
 
 <ins><b>Birding and Photography</b></ins>
 
