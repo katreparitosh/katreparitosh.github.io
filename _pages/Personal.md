@@ -28,7 +28,7 @@ I primarily rely on <a href = "https://www.apple.com/in/mac/garageband/">Garageb
 
 <ins><b>Birding and Photography</b></ins>
 
-When I was in school, I developed a deep interest in <a href = "https://en.wikipedia.org/wiki/Ornithology"> Ornithology </a>, Birdwatching and Photography. Back then, I would regularly go out for bird photography, experiment with image editors like Adobe Photoshop. This was a ritual until college, but now, birding and nature-walks have become more personal and relaxing ventures :) 
+When I was in school, I developed a deep interest in <a href = "https://en.wikipedia.org/wiki/Ornithology"> Ornithology</a>, Birdwatching and Photography. Back then, I would regularly go out for photography, and experiment with image editors like Adobe Photoshop. This was a ritual until college, but now, birding, and nature-walks have become more personal and relaxing ventures :) 
   
 Some of my photographs on [Indian Nature Watch](http://www.indianaturewatch.net/view_cat.php?tag=Paritosh+Katre). 
 <br>
