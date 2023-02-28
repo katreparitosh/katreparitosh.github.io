@@ -10,17 +10,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**<center>A little about me.</center>**
+## **<center>A LITTLE ABOUT ME</center>**
 
 <p align="justify">
   
-👋 Hi! I am Paritosh.<br><br>
-  
 I am a NLP Scientist/Researcher skilled in conducting R&D at the intersection of Natural Language Processing (NLP), Applied ML, Language Science, and Computational Linguistics.<br><br>
   
-Currently, I am working as a Data Scientist at <a href = "https://en.wikipedia.org/wiki/PayPal"> PayPal Inc. </a> with the Applied Science team supporting the core AI/NLP capabilities of the Customer Success Platform (CSP).<br><br>
+Presently, I am working as a Data Scientist at <a href = "https://en.wikipedia.org/wiki/PayPal"> PayPal Inc. </a> with the Applied Science group under the Customer Success Org to build the core AI/NLP capabilities supporting Customer Success Platform (CSP).<br><br>
 
-In Dec 2022, I graduated with an MS in Computer Science from the <a href = "https://engineering.buffalo.edu/computer-science-engineering.html"> University at Buffalo, New York </a>. During that period, I was affiliated with <a href = "https://www.xlab-ub.com/research"> X-LAB @ UB </a> where I conducted research on the topic of "Science of Science" advised by <a href = "https://www.xlab-ub.com/research"> Prof. Jinjun Xiong</a>. You can read more about this work <a href = "https://katreparitosh.github.io/research/">here</a>.<br><br>
+In Dec 2022, I graduated with an MS in Computer Science from the <a href = "https://engineering.buffalo.edu/computer-science-engineering.html"> University at Buffalo, New York </a>. During that period, I was affiliated with <a href = "https://www.xlab-ub.com/research"> X-LAB @ UB </a> where I conducted research on the topic of "Science of Science" advised by <a href = "https://www.xlab-ub.com/research"> Prof. Jinjun Xiong</a>. You can read more about this research <a href = "https://katreparitosh.github.io/research/">here</a>.<br><br>
   
 <img src = "/images/presentation.jpeg" width="1400" height="500">
 <small><center><i>Presentation on Usability of Password Managers @ University at Buffalo, 2022</i></center></small>
@@ -36,7 +34,7 @@ As an undergraduate, I majored in Computer Science from <a href="http://www.viit
 
 In 2019, I got an opportunity to intern at the Applied AI Group of <a href = "https://www.cdac.in/">Center for Development of Advanced Computing (C-DAC), Pune</a>, as part of my year long final year thesis project. I worked on an AI-NLP task of Event Prediction to predict potential crime/terrorist activities from unstructured textual corpora. The vision was to design a predictive algorithm and build a working prototype to demonstrate a <a href = "https://en.wikipedia.org/wiki/Pre-crime">Pre-crime Tool</a>. You can read more about this research <a href = "https://katreparitosh.github.io/research/">here</a>.<br><br>
 
-In parallel, I am also a musician passionately interested in composing music which attempts to find the sweet spots between the Indian Classical Raagas and the Western Orchestral Soundscapes. I enjoy music production, arrangments, and learning new techniques in music.<br><br>
+In parallel, I am also a musician passionately interested in composing music which attempts to find the sweet spots between the Indian Classical Raagas and the Western Orchestral Soundscapes.<br><br>
 
 📫 [<a href="katreparitosh@gmail.com">katreparitosh@gmail.com</a>] 👈 Email <br>
 🔗 [<a href="https://www.linkedin.com/in/paritoshkatre/">LinkedIn</a>] [<a href="https://github.com/katreparitosh">GitHub</a>] [<a href="https://scholar.google.com/citations?user=UsJddC0AAAAJ">Google Scholar</a>] 👈  Links <br>
