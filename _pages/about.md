@@ -10,7 +10,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## A Little About Me
+**<center>A little about me.</center>**
 
 <p align="justify">
   
@@ -22,7 +22,7 @@ Currently, I am working as a Data Scientist at <a href = "https://en.wikipedia.o
 
 In Dec 2022, I graduated with an MS in Computer Science from the <a href = "https://engineering.buffalo.edu/computer-science-engineering.html"> University at Buffalo, New York </a>. During that period, I was affiliated with <a href = "https://www.xlab-ub.com/research"> X-LAB @ UB </a> where I conducted research on the topic of "Science of Science" advised by <a href = "https://www.xlab-ub.com/research"> Prof. Jinjun Xiong</a>. You can read more about this work <a href = "https://katreparitosh.github.io/research/">here</a>.<br><br>
   
-<img src = "/images/presentation.jpeg" width="1400" height="500"><br>
+<img src = "/images/presentation.jpeg" width="1400" height="500">
 <small><center><i>Presentation on Usability of Password Managers @ University at Buffalo, 2022</i></center></small>
 <br><br>
   
