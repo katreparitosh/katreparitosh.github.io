@@ -24,7 +24,7 @@ Some of the questions I tried to solve:
 * How do we understand & quantify scientific innovation and predict new research directions to advance the scientific enterprise?
 * How do we quantify diversity and interdisciplinary related metrics for articles, authors, and academic institutions in general? 
 
-<center><img src = "/images/collage-thanksgiving.jpg" width="1000" height="350"></center>
+<!-- <center><img src = "/images/collage-thanksgiving.jpg" width="1000" height="350"></center> -->
 <small><center><i>Thanksgiving Party 2022 @ Prof. Jinjun'x House</i></center></small>
 
 ### [Political Discourse Analytics](#politicaldiscourseanalytics)
