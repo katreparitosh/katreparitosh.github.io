@@ -24,6 +24,10 @@ Some of the questions I tried to solve:
 * How do we understand & quantify scientific innovation and predict new research directions to advance the scientific enterprise?
 * How do we quantify diversity and interdisciplinary related metrics for articles, authors, and academic institutions in general? 
 
+<center><img src = "/images/x-lab-thanksgiving.jpeg" width="400" height="400"></center>
+<small><center><i>Thanksgiving Party 2022 @ Prof. Jinjun'x House</i></center></small>
+<br><br>
+
 ### [Political Discourse Analytics](#politicaldiscourseanalytics)
 
 [Political Discourse Analytics](https://en.wikipedia.org/wiki/Discourse_analysis) is an approach to understanding the nature and function of world-level to 
@@ -38,6 +42,7 @@ Some of the questions I tried to examine:
 * How do we use language technologies to trace and identify socio-political issues from political speech transcripts?
 * How do we extract and interpret latent political ideologies, topics/shades from large unstructured corpora? 
 * How can a study like this be made useful for political analysts, political party strategists and the people to assess multiple political candidates and their political attitude & discourse?
+
 
 ### [Event Prediction from Unstructured Text Data](#eventprediction)
 
