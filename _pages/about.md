@@ -20,7 +20,7 @@ Presently, I am working as a Data Scientist at <a href = "https://en.wikipedia.o
 
 In Dec 2022, I graduated with an MS in Computer Science from the <a href = "https://engineering.buffalo.edu/computer-science-engineering.html"> University at Buffalo, New York </a>. During that period, I was affiliated with <a href = "https://www.xlab-ub.com/research"> X-LAB @ UB </a> where I conducted research on the topic of "Science of Science" advised by <a href = "https://www.xlab-ub.com/research"> Prof. Jinjun Xiong</a>. You can read more about this research <a href = "https://katreparitosh.github.io/research/">here</a>.<br><br>
   
-<img src = "/images/presentation.jpeg" width="1400" height="500">
+<img src = "/images/Talk_Paritosh.jpeg" width="1400" height="430">
 <small><center><i>Presentation on Usability of Password Managers @ University at Buffalo, March 2022</i></center></small>
 <br><br>
   
