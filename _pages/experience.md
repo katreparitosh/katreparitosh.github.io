@@ -7,13 +7,23 @@ header:
 author_profile: true
 ---
 
-<b>Data Scientist Intern</b> @ <a href="https://www.linkedin.com/company/paypal"> PayPal</a>, San Jose <br>
-<i>(May 2022 - Present)</i><br> 
+<b>Data Scientist</b> @ <a href="https://www.linkedin.com/company/paypal"> PayPal</a>, San Jose <br>
+<i>(Feb 2023 - Present)</i><br> 
+Manager: Nandana Murthy, AI/ML Engineering Manager, PayPal<br>
+
+---
+<b>Capstone Project Developer</b> @ <a href="https://www3.mtb.com/careers/technology-careers"> M&T Tech</a>, Buffalo <br>
+<i>(Sep 2022 - Dec 2022)</i><br> 
 Manager: [Nimisha Tandon](https://www.linkedin.com/in/nimisha-tandon/), AI/ML Engineering Manager, PayPal<br>
 
 ---
+<b>Data Scientist Intern</b> @ <a href="https://www.linkedin.com/company/paypal"> PayPal</a>, San Jose <br>
+<i>(May 2022 - Nov 2022)</i><br> 
+Manager: Nandana Murthy, AI/ML Engineering Manager, PayPal<br>
+
+---
 <b>Research Assistant</b> @ <a href="https://www.xlab-ub.com/home"> X-LAB @ UB</a>, University at Buffalo<br>
-<i>(Dec 2021 - Present)</i><br> 
+<i>(Dec 2021 - Dec 2022)</i><br> 
 Advisor: [Dr. Jinjun Xiong](https://www.xlab-ub.com/home), Empire Innovation Professor, University at Buffalo <br>
 
 ---
