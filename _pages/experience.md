@@ -14,7 +14,7 @@ Manager: Nandana Murthy, AI/ML Engineering Manager, PayPal<br>
 ---
 <b>Capstone Project Developer</b> @ <a href="https://www3.mtb.com/careers/technology-careers"> M&T Tech</a>, Buffalo <br>
 <i>(Sep 2022 - Dec 2022)</i><br> 
-Manager: [Nimisha Tandon](https://www.linkedin.com/in/nimisha-tandon/), AI/ML Engineering Manager, PayPal<br>
+Manager: [Murray Richburg](https://www.linkedin.com/in/murrayrichburg/), SVP Data Viz Tools, M&T Tech<br>
 
 ---
 <b>Data Scientist Intern</b> @ <a href="https://www.linkedin.com/company/paypal"> PayPal</a>, San Jose <br>
