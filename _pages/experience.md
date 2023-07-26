@@ -8,8 +8,7 @@ author_profile: true
 ---
 
 <b>Data Scientist</b> @ <a href="https://www.linkedin.com/company/paypal"> PayPal</a>, San Jose <br>
-<i>(Feb 2023 - Present)</i><br> 
-Manager: Nandana Murthy, AI/ML Engineering Manager, PayPal<br>
+<i>(Feb 2023 - Present)</i><br>
 
 ---
 <b>Capstone Project Developer</b> @ <a href="https://www3.mtb.com/careers/technology-careers"> M&T Tech</a>, Buffalo <br>
