@@ -6,11 +6,18 @@ header:
   overlay_filter: 0.3
 author_profile: true
 ---
+PRESENT
 
 <b>Data Scientist</b> @ <a href="https://www.linkedin.com/company/paypal"> PayPal</a>, San Jose <br>
 <i>(Feb 2023 - Present)</i><br>
 
+<b>Mentor</b> @ <a href="https://www.kaggle.com/kagglex"> Kaggle</a><br>
+<i>(Sept 2023 - Nov 2023)</i><br>
+
 ---
+---
+PAST
+
 <b>Capstone Project Developer</b> @ <a href="https://www3.mtb.com/careers/technology-careers"> M&T Tech</a>, Buffalo <br>
 <i>(Sep 2022 - Dec 2022)</i><br> 
 Manager: [Murray Richburg](https://www.linkedin.com/in/murrayrichburg/), SVP Data Viz Tools, M&T Tech<br>
