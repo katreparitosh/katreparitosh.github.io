@@ -16,9 +16,9 @@ redirect_from:
   
 Paritosh Katre is an ML/NLP Scientist skilled in conducting R&D at the intersection of Natural Language Processing (NLP), Applied Machine Learning, and Language Science.<br><br>
   
-Presently, he is a Machine Learning Scientist (II) at <a href = "https://en.wikipedia.org/wiki/PayPal"> PayPal Inc. </a>, affiliated with the Global Analytics and Data Science (GADS) group.<br><br>
+Presently, he is a Machine Learning Scientist (II) at <a href = "https://en.wikipedia.org/wiki/PayPal"> PayPal Inc.</a>, affiliated with the Global Analytics and Data Science (GADS) group.<br><br>
 
-Paritosh holds an MS in Computer Science (Dec 2022) from the <a href = "https://engineering.buffalo.edu/computer-science-engineering.html"> University at Buffalo, New York </a>. During that period, he was affiliated with <a href = "https://www.xlab-ub.com/research"> X-LAB @ UB </a>, where he conducted research on the topic of "Science of Science", advised by <a href = "https://www.xlab-ub.com/research"> Prof. Jinjun Xiong</a>. Read more about this research <a href = "https://katreparitosh.github.io/research/">here</a>.<br><br>
+Paritosh holds an MS in Computer Science (Dec 2022) from the <a href = "https://engineering.buffalo.edu/computer-science-engineering.html"> University at Buffalo, New York</a>. During that period, he was affiliated with <a href = "https://www.xlab-ub.com/research"> X-LAB @ UB </a>, where he conducted research on the topic of "Science of Science", advised by <a href = "https://www.xlab-ub.com/research"> Prof. Jinjun Xiong</a>. Read more about this research <a href = "https://katreparitosh.github.io/research/">here</a>.<br><br>
   
 <img src = "/images/Talk_Paritosh.jpeg" width="1400" height="430">
 <small><center><i>Presentation on Usability of Password Managers @ University at Buffalo, March 2022</i></center></small>
