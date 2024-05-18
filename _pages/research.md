@@ -8,13 +8,27 @@ header:
 author_profile: true
 ---
 ## <center>RESEARCH</center>
-This page briefly describes my research work and subject interests.
+This page briefly describes his research work and subject interests.
+
+### [NLP-based Resume Parsing and Intelligent Job Recommendations](#scienceofscience)
+[Aug 2022 - Dec 2022]
+
+This project was developed as a collaboration between [M&T Bank](https://www3.mtb.com/landing-pages/m-t-tech-hub-reveal) and the [University at Buffalo](https://engineering.buffalo.edu/computer-science-engineering.html) with a vision to develop an intelligent, customizable, in-house solution for smart recruitment. The product was an end-to-end solution supported with NLP/ML-based algorithms for parsing, matching, and ranking resumes. The entire Web Application was built on Java/Springboot with the look and feel of ReactJs. The solution was deployed and hosted on IBM Cloud powered by XLAB@UB.
+
+**Awards**: 1st Prize at the Fall 2022 CSE Demo Day
+
+**Project Advisees**<br>
+University at Buffalo - Prof. [Jinjun Xiong](https://www.xlab-ub.com/), [Amir Nassereldine](https://www.linkedin.com/in/amir-nassereldine/overlay/about-this-profile/)<br>
+M&T Bank Tech: [Murray Richburg](https://www.linkedin.com/in/murrayrichburg/), [Romunda (Harris) Harris-Fonville](https://www.linkedin.com/in/romunda-h-0407289/)
+
+<center><img src = "/images/photo-collage.png" width="1000" height="562"></center>
+<small><center><i>Right: UB CSE Demo Day | Left: M&T Tech HQ, Buffalo </i></center></small>
 
 ### [Science of Science](#scienceofscience)
 [2021 - 2022]
 
-[Science of Science](https://en.wikipedia.org/wiki/Science_of_science_policy) is an emerging interdisciplinary research area which aims to 
-understand the overall structure and functioning of science advancement. Although popularly quoted as “Science of Science”, this field falls under the hood of “[Meta-science or Meta-research](https://en.wikipedia.org/wiki/Metascience)”, which further comes under the larger hood of “[Logology](https://en.wikipedia.org/wiki/Logology_(science))”. Logology or Metascience is the use of scientific methods to understand science activities like publishing papers, patents, funding impact, author influence, collaborations, etc.
+[Science of Science](https://en.wikipedia.org/wiki/Science_of_science_policy) is an emerging interdisciplinary research area that aims to 
+understand the overall structure and functioning of scientific advancement. Although popularly quoted as “Science of Science”, this field falls under the hood of “[Meta-science or Meta-research](https://en.wikipedia.org/wiki/Metascience)”, which further comes under the larger hood of “[Logology](https://en.wikipedia.org/wiki/Logology_(science))”. Logology or Metascience is the use of scientific methods to understand science activities like publishing papers, patents, funding impact, author influence, collaborations, etc.
 
 This research project was advised by Prof. [Jinjun Xiong](https://www.xlab-ub.com/) at X-LAB @ UB.
 
