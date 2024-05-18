@@ -11,6 +11,7 @@ author_profile: true
 This page briefly describes my research work and subject interests.
 
 ### [Science of Science](#scienceofscience)
+[2021 - 2022]
 
 [Science of Science](https://en.wikipedia.org/wiki/Science_of_science_policy) is an emerging interdisciplinary research area which aims to 
 understand the overall structure and functioning of science advancement. Although popularly quoted as “Science of Science”, this field falls under the hood of “[Meta-science or Meta-research](https://en.wikipedia.org/wiki/Metascience)”, which further comes under the larger hood of “[Logology](https://en.wikipedia.org/wiki/Logology_(science))”. Logology or Metascience is the use of scientific methods to understand science activities like publishing papers, patents, funding impact, author influence, collaborations, etc.
@@ -28,6 +29,7 @@ Some of the questions he tried to examine:
 <small><center><i>Thanksgiving Party 2022 @ Prof. Jinjun'x House</i></center></small>
 
 ### [Political Discourse Analytics](#politicaldiscourseanalytics)
+[2018 - 2019]
 
 [Political Discourse Analytics](https://en.wikipedia.org/wiki/Discourse_analysis) is an approach to understanding the nature and function of world-level to 
 root-level political discourse using digital data sources like speech transcripts, debates, 
@@ -44,6 +46,7 @@ Some of the questions he tried to examine:
 
 
 ### [Event Prediction from Unstructured Text Data](#eventprediction)
+[2019 - 2020]
 
 An event is generally defined as an incident that happens at a certain time and place and may or may not attract people’s attention. Event Detection is a well-researched field, however, utilizing unstructured text data for predicting events (or event features) was a fairly new research direction in early 2019.
 
