@@ -21,7 +21,7 @@ This project was developed as a collaboration between [M&T Bank](https://www3.mt
 University at Buffalo - Prof. [Jinjun Xiong](https://www.xlab-ub.com/), [Amir Nassereldine](https://www.linkedin.com/in/amir-nassereldine/overlay/about-this-profile/)<br>
 M&T Bank Tech: [Murray Richburg](https://www.linkedin.com/in/murrayrichburg/), [Romunda (Harris) Harris-Fonville](https://www.linkedin.com/in/romunda-h-0407289/)
 
-<center><img src = "/images/photo-collage.png" width="1000" height="562"></center>
+<center><img src = "/images/parser_project.png" width="1000" height="562"></center>
 <small><center><i>Right: UB CSE Demo Day | Left: M&T Tech HQ, Buffalo </i></center></small>
 
 ### [Science of Science](#scienceofscience)
