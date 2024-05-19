@@ -7,7 +7,7 @@ header:
 author_profile: true
 ---
 
-For proper citations, refer my <a href = "https://scholar.google.com/citations?user=UsJddC0AAAAJ&hl=en">Google Scholar Profile.</a>
+For correct citations, refer <a href = "https://scholar.google.com/citations?user=UsJddC0AAAAJ&hl=en">Google Scholar Profile.</a>
 <br>
 <br>
 <b>Survey and Gap Analysis on Event Prediction of English Unstructured Texts</b><br> 
