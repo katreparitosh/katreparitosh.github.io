@@ -11,9 +11,9 @@ logo                     : "android-chrome-512x512.png"
 locale                   : "en-US"
 title                    : "Profile of Paritosh Katre"
 title_separator          : "-"
-tagline                  : "Paritosh Katre's Personal Site"
+tagline                  : "Paritosh Katre's Web Page"
 name                     : &name "Paritosh Katre"
-description              : &description "Paritosh's Personal Website"
+description              : &description "Paritosh's Profile"
 url                      : https://katreparitosh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url-pretty               : "katreparitosh.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -86,8 +86,8 @@ analytics:
 author:
   name             : "Paritosh Katre"
   avatar           : "profile_photo_2.jpeg"
-  bio              : "Data Scientist @ PayPal Inc."
-  location         : "San Jose, USA"
+  bio              : "ML Scientist II @ PayPal Inc."
+  location         : "San Francisco Bay Area"
   employer         : 
   googlescholar    : 
   email            : 
