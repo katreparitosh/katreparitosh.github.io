@@ -10,7 +10,7 @@ author_profile: true
 ## <center>RESEARCH</center>
 This page briefly describes his research work and subject interests.
 
-### [NLP-based Resume Parsing and Intelligent Job Recommendations](#scienceofscience)
+### [NLP-based Resume Parsing and Intelligent Job Recommendations](#nlp-parser)
 [Aug 2022 - Dec 2022]
 
 This project was developed as a collaboration between [M&T Bank](https://www3.mtb.com/landing-pages/m-t-tech-hub-reveal) and the [University at Buffalo](https://engineering.buffalo.edu/computer-science-engineering.html) with a vision to develop an intelligent, customizable, in-house solution for smart recruitment. The product was an end-to-end solution supported with NLP/ML-based algorithms for parsing, matching, and ranking resumes. The entire Web Application was built on Java/Springboot with the look and feel of ReactJs. The solution was deployed and hosted on IBM Cloud powered by XLAB@UB.
@@ -42,6 +42,20 @@ Some of the questions he tried to examine:
 <center><img src = "/images/collage-thanksgiving.jpg" width="1000" height="350"></center>
 <small><center><i>Thanksgiving Party 2022 @ Prof. Jinjun'x House</i></center></small>
 
+### [Event Prediction from Unstructured Text Data](#eventprediction)
+[2019 - 2020]
+
+An event is generally defined as an incident that happens at a certain time and place and may or may not attract people’s attention. Event Detection is a well-researched field, however, utilizing unstructured text data for predicting events (or event features) was a fairly new research direction in early 2019.
+
+This project was sponsored by the Applied AI Group of [C-DAC](https://cdac.in/index.aspx) - an R&D Society operating under the Government of India. This research was advised by 
+[Dr. Krishnanjan Bhattacharjee](https://www.linkedin.com/in/dr-krishnanjan-bhattacharjee-b1852141/).
+
+Some of the questions he tried to examine:
+
+* How do we model unstructured text data as a knowledge graph to predict potential crime/terrorism events?
+* How to extract linguistic markers and pre-event indicators (semantic triples) using NLP tasks like Entity Disambiguation, Entity Resolution, and Dependency Parsing?
+* How do we build a weighted rule-based algorithm for predicting future links between nodes of the knowledge graph?
+
 ### [Political Discourse Analytics](#politicaldiscourseanalytics)
 [2018 - 2019]
 
@@ -57,21 +71,6 @@ Some of the questions he tried to examine:
 * How do we use language technologies to trace and identify socio-political issues from political speech transcripts?
 * How do we extract and interpret latent political ideologies, topics/shades from large unstructured corpora? 
 * How can a study like this be made useful for political analysts, political party strategists, and the people to assess multiple political candidates and their political attitudes & discourse?
-
-
-### [Event Prediction from Unstructured Text Data](#eventprediction)
-[2019 - 2020]
-
-An event is generally defined as an incident that happens at a certain time and place and may or may not attract people’s attention. Event Detection is a well-researched field, however, utilizing unstructured text data for predicting events (or event features) was a fairly new research direction in early 2019.
-
-This project was sponsored by the Applied AI Group of [C-DAC](https://cdac.in/index.aspx) - an R&D Society operating under the Government of India. This research was advised by 
-[Dr. Krishnanjan Bhattacharjee](https://www.linkedin.com/in/dr-krishnanjan-bhattacharjee-b1852141/).
-
-Some of the questions he tried to examine:
-
-* How do we model unstructured text data as a knowledge graph to predict potential crime/terrorism events?
-* How to extract linguistic markers and pre-event indicators (semantic triples) using NLP tasks like Entity Disambiguation, Entity Resolution, and Dependency Parsing?
-* How do we build a weighted rule-based algorithm for predicting future links between nodes of the knowledge graph?
 
 <!--
 ### [New Interests In]
