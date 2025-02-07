@@ -41,11 +41,39 @@ Advisor: [Dr. Krishnanjan Bhattacharjee](https://www.linkedin.com/in/dr-krishnan
 ---
 ---
 
-<b>Mentorship Positions</b>
+<b>Mentorship & Advisorship Positions</b>
 
 <b>Mentor</b> @ [OpenNLP Labs](https://www.linkedin.com/company/opennlp/)
+<i>(June 2024 - Sept 2024)</i><br>
 
 <b>Mentor</b> @ [AI4ALL](https://ai-4-all.org/) 
+<i>(Feb 2024 - April 2024)</i><br> 
 
 <b>Mentor</b> @ [Kaggle Inc](https://www.kaggle.com/kagglex)
+<i>(Aug 2023 - Dec 2023)</i><br> 
+
+---
+---
+
+<b>Invited Judge Positions</b>
+
+<b>Judge & Mentor</b> for [SFHacks 2024](https://www.linkedin.com/posts/paritoshkatre_sfhacks-sfbayarea-hackathon-activity-7183160116278407168-g7_G?utm_source=share&utm_medium=member_desktop)
+
+<b>Judge</b> for [HackDavis 2024](https://2024.hackdavis.io/)
+
+<b>Judge</b> for [TreeHacks 2025](https://www.treehacks.com/)
+
+---
+---
+
+<b>Program Committee Member (PCM) & Reviewer</b>
+
+<b>PCM & Reviewer</b> for [Challenges in Processing South Asian Languages
+(CHiPSAL 2025) Workshop](https://aclanthology.org/2025.chipsal-1.pdf) @ [31st International Conference on Computational Linguistics (COLING) 2025](https://coling2025.org/)
+
+<b>Reviewer</b> for [LatinX in AI Research Worskhop](https://www.latinxinai.org/neurips-2024) @ [NeurIPS 2024](https://neurips.cc/)
+
+<b>Reviewer</b> for [2024 IEEE Conference on Engineering Informatics (ICEI2024)](https://easychair.org/cfp/ICEI-2024)
+
+
 
