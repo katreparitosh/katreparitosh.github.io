@@ -10,17 +10,14 @@ author_profile: true
 
 [Present]<br>
 
-<img src = "/images/paypal_logo.png" width="45" height="12">  <b>Machine Learning - II</b> @ <a href="https://www.linkedin.com/company/paypal"> PayPal</a>, San Jose <br>
+<img src = "/images/paypal_logo.png" width="48" height="13">   <b>Machine Learning - II</b> @ <a href="https://www.linkedin.com/company/paypal"> PayPal</a>, San Jose <br>
 <i>(Feb 2023 - Present)</i><br>
 
-<img src = "/images/paypal_logo.png" width="45" height="12">  <b>Data Scientist Intern</b> @ <a href="https://www.linkedin.com/company/paypal"> PayPal</a>, San Jose <br>
+<img src = "/images/paypal_logo.png" width="48" height="13">   <b>Data Scientist Intern</b> @ <a href="https://www.linkedin.com/company/paypal"> PayPal</a>, San Jose <br>
 <i>(May 2022 - Nov 2022)</i><br>
 
-<b>NLP Lead Engineer</b> @ <a href="http://citispotter.com/"> Citispotter Limited</a>, Cambridge, United Kingdom (UK)<br>
-<i>(Oct 2020 - July 2020)</i><br>
-
-<b>NLP Intern</b> @ <a href="http://citispotter.com/"> Citispotter Limited</a>, Cambridge, United Kingdom (UK)<br>
-<i>(June 2020 - Sept 2020)</i><br>
+<img src = "/images/citispotter.webp" width="48" height="13">   <b>NLP Lead Engineer</b> @ <a href="http://citispotter.com/"> Citispotter Limited</a>, Cambridge, United Kingdom (UK)<br>
+<i>(June 2020 - July 2020)</i><br>
 
 ---
 ---
