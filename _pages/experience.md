@@ -11,7 +11,7 @@ author_profile: true
 <img src = "/images/paypal_logo.png" width="48" height="13">   <b>Machine Learning - II</b> @ <a href="https://www.linkedin.com/company/paypal"> PayPal</a>, San Jose <br>
 <i>(Feb 2023 - Present)</i><br>
 
----
+___
 
 <img src = "/images/paypal_logo.png" width="48" height="13">   <b>Data Scientist Intern</b> @ <a href="https://www.linkedin.com/company/paypal"> PayPal</a>, San Jose <br>
 <i>(May 2022 - Nov 2022)</i><br>
