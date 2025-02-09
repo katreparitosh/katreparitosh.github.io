@@ -10,10 +10,10 @@ author_profile: true
 
 [Present]<br>
 
-<img src = "/images/paypal_logo.png" width="40" height="11"><b>Machine Learning - II</b> @ <a href="https://www.linkedin.com/company/paypal"> PayPal</a>, San Jose <br>
+<img src = "/images/paypal_logo.png" width="45" height="12">  <b>Machine Learning - II</b> @ <a href="https://www.linkedin.com/company/paypal"> PayPal</a>, San Jose <br>
 <i>(Feb 2023 - Present)</i><br>
 
-<b>Data Scientist Intern</b> @ <a href="https://www.linkedin.com/company/paypal"> PayPal</a>, San Jose <br>
+<img src = "/images/paypal_logo.png" width="45" height="12">  <b>Data Scientist Intern</b> @ <a href="https://www.linkedin.com/company/paypal"> PayPal</a>, San Jose <br>
 <i>(May 2022 - Nov 2022)</i><br>
 
 <b>NLP Lead Engineer</b> @ <a href="http://citispotter.com/"> Citispotter Limited</a>, Cambridge, United Kingdom (UK)<br>
