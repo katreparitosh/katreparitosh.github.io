@@ -59,9 +59,9 @@ Advisor: [Dr. Krishnanjan Bhattacharjee](https://www.linkedin.com/in/dr-krishnan
 
 <b>Program Committee Member (PCM) & Reviewer</b>
 
-1) Challenges in Processing South Asian Languages Workshop ([CHiPSAL 2025](https://aclanthology.org/2025.chipsal-1.pdf))] @ 31st International Conference on Computational Linguistics ([COLING 2025](https://coling2025.org/))<br>
-2. LatinX in AI Research Workshop ([LXAI](https://www.latinxinai.org/neurips-2024)) @ [NeurIPS 2024](https://neurips.cc/)<br>
-3. 2024 IEEE Conference on Engineering Informatics ([ICEI 2024](https://easychair.org/cfp/ICEI-2024))
+1. ([CHiPSAL 2025](https://aclanthology.org/2025.chipsal-1.pdf)), Challenges in Processing South Asian Languages Workshop @ 31st International Conference on Computational Linguistics ([COLING 2025](https://coling2025.org/))<br>
+2. ([LXAI 2024](https://www.latinxinai.org/neurips-2024)), LatinX in AI Research Workshop @ [NeurIPS 2024](https://neurips.cc/)<br>
+3. ([IEEE ICEI 2024](https://easychair.org/cfp/ICEI-2024)), IEEE Conference on Engineering Informatics, 2024
 
 
 
