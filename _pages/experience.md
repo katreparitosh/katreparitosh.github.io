@@ -9,7 +9,8 @@ author_profile: true
 <b>Industry Experience</b>
 
 [Present]<br>
-<b>Machine Learning - II</b> @ <a href="https://www.linkedin.com/company/paypal"> PayPal</a>, San Jose <br>
+
+<img src = "/images/paypal_logo.png" width="10" height="5"><b>Machine Learning - II</b> @ <a href="https://www.linkedin.com/company/paypal"> PayPal</a>, San Jose <br>
 <i>(Feb 2023 - Present)</i><br>
 
 <b>Data Scientist Intern</b> @ <a href="https://www.linkedin.com/company/paypal"> PayPal</a>, San Jose <br>
