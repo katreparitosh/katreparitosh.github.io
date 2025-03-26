@@ -62,6 +62,7 @@ Advisor: [Dr. Krishnanjan Bhattacharjee](https://www.linkedin.com/in/dr-krishnan
 1. ([CHiPSAL 2025](https://aclanthology.org/2025.chipsal-1.pdf)), Challenges in Processing South Asian Languages Workshop @ 31st International Conference on Computational Linguistics ([COLING 2025](https://coling2025.org/))<br>
 2. ([LXAI 2024](https://www.latinxinai.org/neurips-2024)), LatinX in AI Research Workshop @ [NeurIPS 2024](https://neurips.cc/)<br>
 3. ([IEEE ICEI 2024](https://easychair.org/cfp/ICEI-2024)), IEEE Conference on Engineering Informatics, 2024
+4. ([AAAI ICWSM 2024](https://sites.google.com/view/reclaiming-the-narrative/home?authuser=0)), The 1st Workshop on Reclaiming the Narrative: Digital Recovery, AI, and Mitigating Harm in Social Media, 2024
 
 
 
